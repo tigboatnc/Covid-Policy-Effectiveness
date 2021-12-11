@@ -1,0 +1,394 @@
+,date_implement,policy,metric_change,state
+0,2021-01-19,C1_School closing,-1.0,Alaska
+1,2021-07-10,C2_Workplace closing,-1.0,Alaska
+2,2021-08-05,C2_Workplace closing,1.0,Alaska
+3,2021-03-08,C3_Cancel public events,-1.0,Alaska
+4,2021-03-08,C4_Restrictions on gatherings,-1.0,Alaska
+5,2021-04-26,C7_Restrictions on internal movement,-1.0,Alaska
+6,2021-11-08,C8_International travel controls,-2.0,Alaska
+7,2021-02-11,H7_Vaccination policy,1.0,Alaska
+8,2021-03-09,H7_Vaccination policy,2.0,Alaska
+0,2021-04-05,C1_School closing,-1.0,Alabama
+1,2021-09-27,C1_School closing,1.0,Alabama
+2,2021-04-21,C2_Workplace closing,-1.0,Alabama
+3,2021-08-15,C3_Cancel public events,-1.0,Alabama
+4,2021-01-18,C5_Close public transport,1.0,Alabama
+5,2021-03-22,C5_Close public transport,-1.0,Alabama
+6,2021-04-09,C6_Stay at home requirements,-1.0,Alabama
+7,2021-11-08,C8_International travel controls,-2.0,Alabama
+8,2021-02-01,H2_Testing policy,-1.0,Alabama
+9,2021-07-19,H2_Testing policy,1.0,Alabama
+10,2021-04-09,H6_Facial Coverings,-1.0,Alabama
+11,2021-09-17,H6_Facial Coverings,1.0,Alabama
+12,2021-03-22,H7_Vaccination policy,1.0,Alabama
+0,2021-02-28,C1_School closing,-1.0,Arkansas
+1,2021-09-07,C1_School closing,1.0,Arkansas
+2,2021-02-16,C2_Workplace closing,-1.0,Arkansas
+3,2021-09-14,C3_Cancel public events,-1.0,Arkansas
+4,2021-01-02,C4_Restrictions on gatherings,3.0,Arkansas
+5,2021-02-26,C4_Restrictions on gatherings,-4.0,Arkansas
+6,2021-07-28,C5_Close public transport,-1.0,Arkansas
+7,2021-04-02,C6_Stay at home requirements,-1.0,Arkansas
+8,2021-11-08,C8_International travel controls,-2.0,Arkansas
+9,2021-01-05,H2_Testing policy,1.0,Arkansas
+10,2021-07-28,H3_Contact tracing,-1.0,Arkansas
+11,2021-04-01,H6_Facial Coverings,-1.0,Arkansas
+12,2021-01-18,H7_Vaccination policy,1.0,Arkansas
+13,2021-03-30,H7_Vaccination policy,2.0,Arkansas
+0,2021-03-15,C1_School closing,-1.0,Arizona
+1,2021-01-05,C2_Workplace closing,1.0,Arizona
+2,2021-03-05,C2_Workplace closing,-1.0,Arizona
+3,2021-03-09,C3_Cancel public events,-1.0,Arizona
+4,2021-04-06,C4_Restrictions on gatherings,-3.0,Arizona
+5,2021-04-02,C6_Stay at home requirements,-1.0,Arizona
+6,2021-11-08,C8_International travel controls,-2.0,Arizona
+7,2021-03-25,H6_Facial Coverings,-1.0,Arizona
+8,2021-04-06,H6_Facial Coverings,1.0,Arizona
+9,2021-01-05,H7_Vaccination policy,2.0,Arizona
+10,2021-02-26,H7_Vaccination policy,1.0,Arizona
+11,2021-03-01,H7_Vaccination policy,-1.0,Arizona
+0,2021-03-05,C1_School closing,-1.0,California
+1,2021-06-15,C2_Workplace closing,-2.0,California
+2,2021-10-18,C2_Workplace closing,1.0,California
+3,2021-06-15,C3_Cancel public events,-1.0,California
+4,2021-06-15,C4_Restrictions on gatherings,-3.0,California
+5,2021-01-27,C6_Stay at home requirements,-1.0,California
+6,2021-03-16,C6_Stay at home requirements,1.0,California
+7,2021-03-01,C7_Restrictions on internal movement,-1.0,California
+8,2021-04-25,C7_Restrictions on internal movement,1.0,California
+9,2021-11-08,C8_International travel controls,-2.0,California
+10,2021-01-10,H3_Contact tracing,-1.0,California
+11,2021-06-04,H3_Contact tracing,1.0,California
+12,2021-06-08,H6_Facial Coverings,-1.0,California
+13,2021-03-15,H7_Vaccination policy,1.0,California
+14,2021-04-15,H7_Vaccination policy,2.0,California
+0,2021-07-20,C1_School closing,-1.0,Colorado
+1,2021-10-26,C1_School closing,1.0,Colorado
+2,2021-01-17,C2_Workplace closing,-1.0,Colorado
+3,2021-01-17,C3_Cancel public events,1.0,Colorado
+4,2021-02-02,C3_Cancel public events,-1.0,Colorado
+5,2021-04-16,C4_Restrictions on gatherings,-2.0,Colorado
+6,2021-07-20,C4_Restrictions on gatherings,1.0,Colorado
+7,2021-01-17,C6_Stay at home requirements,1.0,Colorado
+8,2021-02-02,C6_Stay at home requirements,-1.0,Colorado
+9,2021-11-08,C8_International travel controls,-2.0,Colorado
+10,2021-03-27,H2_Testing policy,1.0,Colorado
+11,2021-01-10,H3_Contact tracing,-1.0,Colorado
+12,2021-04-03,H6_Facial Coverings,-1.0,Colorado
+13,2021-05-02,H6_Facial Coverings,1.0,Colorado
+14,2021-03-27,H7_Vaccination policy,2.0,Colorado
+15,2021-04-02,H7_Vaccination policy,1.0,Colorado
+0,2021-06-01,C1_School closing,-2.0,Connecticut
+1,2021-08-30,C1_School closing,1.0,Connecticut
+2,2021-05-01,C2_Workplace closing,-1.0,Connecticut
+3,2021-08-15,C3_Cancel public events,-1.0,Connecticut
+4,2021-03-19,C4_Restrictions on gatherings,-1.0,Connecticut
+5,2021-06-01,C4_Restrictions on gatherings,-3.0,Connecticut
+6,2021-03-02,C5_Close public transport,-1.0,Connecticut
+7,2021-04-02,C6_Stay at home requirements,-1.0,Connecticut
+8,2021-03-19,C7_Restrictions on internal movement,-1.0,Connecticut
+9,2021-11-08,C8_International travel controls,-2.0,Connecticut
+10,2021-05-19,H6_Facial Coverings,-1.0,Connecticut
+11,2021-01-18,H7_Vaccination policy,1.0,Connecticut
+12,2021-01-19,H7_Vaccination policy,-1.0,Connecticut
+13,2021-03-01,H7_Vaccination policy,2.0,Connecticut
+0,2021-02-01,C1_School closing,1.0,Washington DC
+1,2021-02-02,C1_School closing,-1.0,Washington DC
+2,2021-01-22,C2_Workplace closing,-2.0,Washington DC
+3,2021-06-01,C2_Workplace closing,-1.0,Washington DC
+4,2021-08-10,C2_Workplace closing,2.0,Washington DC
+5,2021-05-01,C3_Cancel public events,-1.0,Washington DC
+6,2021-01-22,C4_Restrictions on gatherings,1.0,Washington DC
+7,2021-05-01,C4_Restrictions on gatherings,-2.0,Washington DC
+8,2021-04-02,C6_Stay at home requirements,-1.0,Washington DC
+9,2021-08-06,C7_Restrictions on internal movement,-1.0,Washington DC
+10,2021-11-08,C8_International travel controls,-2.0,Washington DC
+11,2021-05-16,H6_Facial Coverings,-1.0,Washington DC
+12,2021-01-19,H7_Vaccination policy,1.0,Washington DC
+13,2021-04-12,H7_Vaccination policy,2.0,Washington DC
+0,2021-11-09,C1_School closing,-1.0,Delaware
+1,2021-02-04,C2_Workplace closing,-1.0,Delaware
+2,2021-04-20,C2_Workplace closing,1.0,Delaware
+3,2021-08-15,C3_Cancel public events,-1.0,Delaware
+4,2021-05-21,C4_Restrictions on gatherings,-2.0,Delaware
+5,2021-04-02,C6_Stay at home requirements,-1.0,Delaware
+6,2021-11-08,C8_International travel controls,-2.0,Delaware
+7,2021-02-02,H3_Contact tracing,-1.0,Delaware
+8,2021-02-23,H3_Contact tracing,1.0,Delaware
+9,2021-02-12,H6_Facial Coverings,-1.0,Delaware
+10,2021-01-20,H7_Vaccination policy,1.0,Delaware
+11,2021-04-06,H7_Vaccination policy,2.0,Delaware
+0,2021-01-25,C1_School closing,-1.0,Florida
+1,2021-09-01,C1_School closing,2.0,Florida
+2,2021-09-08,C1_School closing,-2.0,Florida
+3,2021-11-09,C1_School closing,1.0,Florida
+4,2021-03-20,C2_Workplace closing,1.0,Florida
+5,2021-04-13,C2_Workplace closing,-1.0,Florida
+6,2021-08-15,C3_Cancel public events,-1.0,Florida
+7,2021-05-03,C4_Restrictions on gatherings,-4.0,Florida
+8,2021-04-13,C6_Stay at home requirements,-2.0,Florida
+9,2021-03-20,C7_Restrictions on internal movement,1.0,Florida
+10,2021-04-15,C7_Restrictions on internal movement,-1.0,Florida
+11,2021-11-08,C8_International travel controls,-2.0,Florida
+12,2021-04-25,H2_Testing policy,1.0,Florida
+13,2021-05-03,H6_Facial Coverings,-1.0,Florida
+14,2021-02-26,H7_Vaccination policy,1.0,Florida
+0,2021-02-23,C1_School closing,-1.0,Georgia
+1,2021-08-31,C2_Workplace closing,-1.0,Georgia
+2,2021-08-24,C3_Cancel public events,1.0,Georgia
+3,2021-08-31,C3_Cancel public events,-2.0,Georgia
+4,2021-04-08,C4_Restrictions on gatherings,-3.0,Georgia
+5,2021-04-08,C6_Stay at home requirements,-2.0,Georgia
+6,2021-11-08,C8_International travel controls,-2.0,Georgia
+7,2021-08-31,H6_Facial Coverings,1.0,Georgia
+8,2021-02-15,H7_Vaccination policy,1.0,Georgia
+0,2021-06-18,C1_School closing,-1.0,Hawaii
+1,2021-07-08,C2_Workplace closing,-1.0,Hawaii
+2,2021-07-08,C3_Cancel public events,-1.0,Hawaii
+3,2021-07-08,C4_Restrictions on gatherings,-1.0,Hawaii
+4,2021-08-10,C4_Restrictions on gatherings,1.0,Hawaii
+5,2021-03-16,C5_Close public transport,-1.0,Hawaii
+6,2021-05-18,C6_Stay at home requirements,-1.0,Hawaii
+7,2021-06-15,C7_Restrictions on internal movement,-1.0,Hawaii
+8,2021-11-08,C8_International travel controls,-2.0,Hawaii
+9,2021-02-02,H3_Contact tracing,-1.0,Hawaii
+10,2021-03-10,H3_Contact tracing,1.0,Hawaii
+11,2021-09-14,H6_Facial Coverings,-1.0,Hawaii
+12,2021-03-15,H7_Vaccination policy,1.0,Hawaii
+13,2021-04-19,H7_Vaccination policy,2.0,Hawaii
+0,2021-01-11,C1_School closing,1.0,Iowa
+1,2021-01-25,C1_School closing,-1.0,Iowa
+2,2021-11-14,C1_School closing,2.0,Iowa
+3,2021-04-21,C2_Workplace closing,-1.0,Iowa
+4,2021-08-15,C3_Cancel public events,-1.0,Iowa
+5,2021-04-02,C6_Stay at home requirements,-1.0,Iowa
+6,2021-11-08,C8_International travel controls,-2.0,Iowa
+7,2021-07-16,H2_Testing policy,1.0,Iowa
+8,2021-05-18,H6_Facial Coverings,-1.0,Iowa
+9,2021-10-06,H6_Facial Coverings,1.0,Iowa
+10,2021-04-05,H7_Vaccination policy,3.0,Iowa
+0,2021-01-19,C1_School closing,-1.0,Idaho
+1,2021-09-14,C2_Workplace closing,-1.0,Idaho
+2,2021-02-02,C3_Cancel public events,-1.0,Idaho
+3,2021-02-22,C4_Restrictions on gatherings,-1.0,Idaho
+4,2021-05-11,C4_Restrictions on gatherings,-3.0,Idaho
+5,2021-04-02,C6_Stay at home requirements,-1.0,Idaho
+6,2021-11-08,C8_International travel controls,-2.0,Idaho
+7,2021-07-19,H2_Testing policy,1.0,Idaho
+8,2021-10-25,H3_Contact tracing,1.0,Idaho
+9,2021-02-22,H6_Facial Coverings,-1.0,Idaho
+10,2021-04-27,H6_Facial Coverings,1.0,Idaho
+11,2021-03-08,H7_Vaccination policy,1.0,Idaho
+0,2021-01-11,C1_School closing,1.0,Illinois
+1,2021-01-19,C1_School closing,-1.0,Illinois
+2,2021-06-07,C2_Workplace closing,-1.0,Illinois
+3,2021-02-04,C3_Cancel public events,-1.0,Illinois
+4,2021-02-04,C4_Restrictions on gatherings,-1.0,Illinois
+5,2021-06-07,C4_Restrictions on gatherings,-2.0,Illinois
+6,2021-01-02,C6_Stay at home requirements,-1.0,Illinois
+7,2021-06-07,C7_Restrictions on internal movement,-1.0,Illinois
+8,2021-11-08,C8_International travel controls,-2.0,Illinois
+9,2021-09-09,H3_Contact tracing,1.0,Illinois
+10,2021-09-28,H3_Contact tracing,-1.0,Illinois
+11,2021-02-10,H6_Facial Coverings,1.0,Illinois
+12,2021-05-16,H6_Facial Coverings,-2.0,Illinois
+13,2021-02-16,H7_Vaccination policy,1.0,Illinois
+0,2021-09-01,C1_School closing,-1.0,Indiana
+1,2021-09-14,C1_School closing,1.0,Indiana
+2,2021-09-28,C1_School closing,-2.0,Indiana
+3,2021-05-01,C2_Workplace closing,-1.0,Indiana
+4,2021-08-15,C3_Cancel public events,-1.0,Indiana
+5,2021-05-17,C4_Restrictions on gatherings,-1.0,Indiana
+6,2021-07-05,C4_Restrictions on gatherings,-2.0,Indiana
+7,2021-04-02,C6_Stay at home requirements,-1.0,Indiana
+8,2021-03-10,C7_Restrictions on internal movement,-1.0,Indiana
+9,2021-11-08,C8_International travel controls,-2.0,Indiana
+10,2021-03-10,H2_Testing policy,1.0,Indiana
+11,2021-07-05,H6_Facial Coverings,1.0,Indiana
+12,2021-08-25,H6_Facial Coverings,-1.0,Indiana
+13,2021-02-01,H7_Vaccination policy,1.0,Indiana
+0,2021-04-06,C1_School closing,-2.0,Kansas
+1,2021-11-02,C1_School closing,1.0,Kansas
+2,2021-08-24,C2_Workplace closing,1.0,Kansas
+3,2021-10-05,C2_Workplace closing,-1.0,Kansas
+4,2021-02-19,C3_Cancel public events,-1.0,Kansas
+5,2021-02-19,C4_Restrictions on gatherings,-1.0,Kansas
+6,2021-04-04,C4_Restrictions on gatherings,1.0,Kansas
+7,2021-04-09,C4_Restrictions on gatherings,-3.0,Kansas
+8,2021-05-31,C5_Close public transport,-1.0,Kansas
+9,2021-04-02,C6_Stay at home requirements,-1.0,Kansas
+10,2021-06-07,C6_Stay at home requirements,1.0,Kansas
+11,2021-11-08,C8_International travel controls,-1.0,Kansas
+12,2021-04-04,H6_Facial Coverings,-1.0,Kansas
+13,2021-03-29,H7_Vaccination policy,3.0,Kansas
+0,2021-04-05,C1_School closing,-1.0,Kentucky
+1,2021-07-10,C1_School closing,1.0,Kentucky
+2,2021-04-05,C4_Restrictions on gatherings,-4.0,Kentucky
+3,2021-05-06,C4_Restrictions on gatherings,2.0,Kentucky
+4,2021-06-11,C4_Restrictions on gatherings,-2.0,Kentucky
+5,2021-04-18,C5_Close public transport,-1.0,Kentucky
+6,2021-04-02,C6_Stay at home requirements,-1.0,Kentucky
+7,2021-11-08,C8_International travel controls,-1.0,Kentucky
+8,2021-03-18,H2_Testing policy,-1.0,Kentucky
+9,2021-07-19,H2_Testing policy,1.0,Kentucky
+10,2021-04-26,H6_Facial Coverings,-1.0,Kentucky
+11,2021-03-25,H7_Vaccination policy,1.0,Kentucky
+12,2021-04-05,H7_Vaccination policy,2.0,Kentucky
+0,2021-06-23,C1_School closing,-1.0,Louisiana
+1,2021-05-15,C2_Workplace closing,-1.0,Louisiana
+2,2021-06-05,C2_Workplace closing,1.0,Louisiana
+3,2021-01-08,C3_Cancel public events,1.0,Louisiana
+4,2021-01-29,C3_Cancel public events,-1.0,Louisiana
+5,2021-01-08,C4_Restrictions on gatherings,1.0,Louisiana
+6,2021-03-12,C4_Restrictions on gatherings,-1.0,Louisiana
+7,2021-06-24,C4_Restrictions on gatherings,-2.0,Louisiana
+8,2021-07-04,C4_Restrictions on gatherings,2.0,Louisiana
+9,2021-06-24,C5_Close public transport,-1.0,Louisiana
+10,2021-08-31,C5_Close public transport,1.0,Louisiana
+11,2021-02-12,C6_Stay at home requirements,1.0,Louisiana
+12,2021-02-17,C6_Stay at home requirements,-1.0,Louisiana
+13,2021-11-08,C8_International travel controls,-1.0,Louisiana
+14,2021-02-23,H2_Testing policy,1.0,Louisiana
+15,2021-02-28,H2_Testing policy,-1.0,Louisiana
+16,2021-04-30,H6_Facial Coverings,-1.0,Louisiana
+17,2021-02-08,H7_Vaccination policy,1.0,Louisiana
+0,2021-05-17,C1_School closing,-1.0,Massachusetts
+1,2021-07-30,C1_School closing,1.0,Massachusetts
+2,2021-05-29,C2_Workplace closing,-2.0,Massachusetts
+3,2021-03-22,C3_Cancel public events,-1.0,Massachusetts
+4,2021-05-29,C4_Restrictions on gatherings,-4.0,Massachusetts
+5,2021-04-02,C6_Stay at home requirements,-1.0,Massachusetts
+6,2021-03-22,C7_Restrictions on internal movement,-1.0,Massachusetts
+7,2021-11-08,C8_International travel controls,-2.0,Massachusetts
+8,2021-04-30,H6_Facial Coverings,-1.0,Massachusetts
+9,2021-08-27,H6_Facial Coverings,1.0,Massachusetts
+10,2021-02-18,H7_Vaccination policy,1.0,Massachusetts
+11,2021-04-19,H7_Vaccination policy,2.0,Massachusetts
+0,2021-08-13,C1_School closing,-1.0,Maryland
+1,2021-02-01,C2_Workplace closing,-1.0,Maryland
+2,2021-01-28,C3_Cancel public events,-1.0,Maryland
+3,2021-02-23,C4_Restrictions on gatherings,-1.0,Maryland
+4,2021-05-15,C4_Restrictions on gatherings,-3.0,Maryland
+5,2021-07-19,C6_Stay at home requirements,-1.0,Maryland
+6,2021-03-12,C7_Restrictions on internal movement,-1.0,Maryland
+7,2021-11-08,C8_International travel controls,-2.0,Maryland
+8,2021-02-02,H3_Contact tracing,-1.0,Maryland
+9,2021-08-17,H3_Contact tracing,1.0,Maryland
+10,2021-04-13,H6_Facial Coverings,-1.0,Maryland
+11,2021-01-25,H7_Vaccination policy,1.0,Maryland
+12,2021-04-13,H7_Vaccination policy,2.0,Maryland
+0,2021-04-21,C2_Workplace closing,-1.0,Maine
+1,2021-08-15,C3_Cancel public events,-1.0,Maine
+2,2021-05-25,C4_Restrictions on gatherings,-2.0,Maine
+3,2021-06-03,C4_Restrictions on gatherings,-1.0,Maine
+4,2021-01-24,C5_Close public transport,-1.0,Maine
+5,2021-05-25,C6_Stay at home requirements,-1.0,Maine
+6,2021-05-01,C7_Restrictions on internal movement,-1.0,Maine
+7,2021-07-19,H2_Testing policy,1.0,Maine
+8,2021-04-27,H6_Facial Coverings,-1.0,Maine
+9,2021-02-02,H7_Vaccination policy,1.0,Maine
+10,2021-02-15,H7_Vaccination policy,-2.0,Maine
+11,2021-03-03,H7_Vaccination policy,2.0,Maine
+0,2021-06-25,C1_School closing,-1.0,Michigan
+1,2021-08-27,C1_School closing,1.0,Michigan
+2,2021-06-01,C2_Workplace closing,-2.0,Michigan
+3,2021-08-15,C3_Cancel public events,-1.0,Michigan
+4,2021-03-19,C4_Restrictions on gatherings,-1.0,Michigan
+5,2021-06-22,C4_Restrictions on gatherings,-3.0,Michigan
+6,2021-06-01,C5_Close public transport,-1.0,Michigan
+7,2021-04-02,C6_Stay at home requirements,-1.0,Michigan
+8,2021-11-08,C8_International travel controls,-2.0,Michigan
+9,2021-11-09,H3_Contact tracing,-1.0,Michigan
+10,2021-06-01,H6_Facial Coverings,-1.0,Michigan
+11,2021-03-09,H7_Vaccination policy,1.0,Michigan
+12,2021-04-05,H7_Vaccination policy,2.0,Michigan
+0,2021-09-08,C1_School closing,-1.0,Minnesota
+1,2021-01-04,C2_Workplace closing,-1.0,Minnesota
+2,2021-01-04,C3_Cancel public events,-1.0,Minnesota
+3,2021-03-15,C4_Restrictions on gatherings,-1.0,Minnesota
+4,2021-05-28,C4_Restrictions on gatherings,-3.0,Minnesota
+5,2021-05-28,C5_Close public transport,-1.0,Minnesota
+6,2021-05-28,C6_Stay at home requirements,-1.0,Minnesota
+7,2021-11-09,C6_Stay at home requirements,1.0,Minnesota
+8,2021-11-08,C8_International travel controls,-1.0,Minnesota
+9,2021-11-09,H3_Contact tracing,1.0,Minnesota
+10,2021-03-10,H7_Vaccination policy,1.0,Minnesota
+11,2021-03-30,H7_Vaccination policy,2.0,Minnesota
+0,2021-01-19,C1_School closing,-1.0,Missouri
+1,2021-05-05,C2_Workplace closing,-1.0,Missouri
+2,2021-03-24,C3_Cancel public events,-1.0,Missouri
+3,2021-01-05,C4_Restrictions on gatherings,1.0,Missouri
+4,2021-03-08,C4_Restrictions on gatherings,-1.0,Missouri
+5,2021-05-14,C4_Restrictions on gatherings,-3.0,Missouri
+6,2021-05-18,C6_Stay at home requirements,-1.0,Missouri
+7,2021-11-08,C8_International travel controls,-2.0,Missouri
+8,2021-01-05,H3_Contact tracing,-1.0,Missouri
+9,2021-06-06,H6_Facial Coverings,-1.0,Missouri
+10,2021-01-05,H7_Vaccination policy,-1.0,Missouri
+11,2021-01-18,H7_Vaccination policy,1.0,Missouri
+0,2021-07-06,C1_School closing,-1.0,Mississippi
+1,2021-04-21,C2_Workplace closing,-1.0,Mississippi
+2,2021-08-15,C3_Cancel public events,-1.0,Mississippi
+3,2021-03-03,C4_Restrictions on gatherings,-4.0,Mississippi
+4,2021-04-02,C6_Stay at home requirements,-1.0,Mississippi
+5,2021-11-08,C8_International travel controls,-2.0,Mississippi
+6,2021-02-15,H2_Testing policy,1.0,Mississippi
+7,2021-08-02,H6_Facial Coverings,-1.0,Mississippi
+8,2021-02-10,H7_Vaccination policy,1.0,Mississippi
+9,2021-03-16,H7_Vaccination policy,2.0,Mississippi
+0,2021-01-19,C1_School closing,1.0,Montana
+1,2021-02-08,C1_School closing,-1.0,Montana
+2,2021-10-27,C2_Workplace closing,-1.0,Montana
+3,2021-10-27,C3_Cancel public events,-1.0,Montana
+4,2021-04-05,C4_Restrictions on gatherings,-1.0,Montana
+5,2021-07-22,C4_Restrictions on gatherings,-2.0,Montana
+6,2021-03-02,C6_Stay at home requirements,-1.0,Montana
+7,2021-11-08,C8_International travel controls,-2.0,Montana
+8,2021-02-12,H3_Contact tracing,1.0,Montana
+9,2021-06-06,H3_Contact tracing,-1.0,Montana
+10,2021-03-15,H6_Facial Coverings,-1.0,Montana
+11,2021-03-25,H6_Facial Coverings,2.0,Montana
+12,2021-04-05,H6_Facial Coverings,-2.0,Montana
+13,2021-01-18,H7_Vaccination policy,1.0,Montana
+0,2021-03-10,C1_School closing,-1.0,North Carolina
+1,2021-10-27,C1_School closing,-2.0,North Carolina
+2,2021-03-26,C2_Workplace closing,-1.0,North Carolina
+3,2021-07-08,C2_Workplace closing,1.0,North Carolina
+4,2021-01-06,C4_Restrictions on gatherings,1.0,North Carolina
+5,2021-02-26,C4_Restrictions on gatherings,-1.0,North Carolina
+6,2021-05-12,C4_Restrictions on gatherings,-2.0,North Carolina
+7,2021-04-01,C6_Stay at home requirements,-1.0,North Carolina
+8,2021-01-06,C7_Restrictions on internal movement,1.0,North Carolina
+9,2021-02-15,C7_Restrictions on internal movement,-1.0,North Carolina
+10,2021-11-08,C8_International travel controls,-2.0,North Carolina
+11,2021-05-12,H2_Testing policy,1.0,North Carolina
+12,2021-05-24,H2_Testing policy,-1.0,North Carolina
+13,2021-02-13,H3_Contact tracing,1.0,North Carolina
+14,2021-08-15,H3_Contact tracing,-1.0,North Carolina
+15,2021-02-15,H6_Facial Coverings,-1.0,North Carolina
+16,2021-01-14,H7_Vaccination policy,1.0,North Carolina
+17,2021-04-07,H7_Vaccination policy,2.0,North Carolina
+0,2021-01-19,C1_School closing,-1.0,North Dakota
+1,2021-04-21,C2_Workplace closing,-1.0,North Dakota
+2,2021-01-18,C4_Restrictions on gatherings,-2.0,North Dakota
+3,2021-05-11,C4_Restrictions on gatherings,2.0,North Dakota
+4,2021-06-22,C4_Restrictions on gatherings,-1.0,North Dakota
+5,2021-04-02,C6_Stay at home requirements,-1.0,North Dakota
+6,2021-11-08,C8_International travel controls,-1.0,North Dakota
+7,2021-02-22,H2_Testing policy,1.0,North Dakota
+8,2021-01-18,H6_Facial Coverings,1.0,North Dakota
+9,2021-03-08,H6_Facial Coverings,-1.0,North Dakota
+10,2021-01-15,H7_Vaccination policy,1.0,North Dakota
+11,2021-03-29,H7_Vaccination policy,2.0,North Dakota
+0,2021-03-16,C1_School closing,-1.0,Nebraska
+1,2021-08-17,C1_School closing,1.0,Nebraska
+2,2021-04-21,C2_Workplace closing,-1.0,Nebraska
+3,2021-08-15,C3_Cancel public events,-1.0,Nebraska
+4,2021-05-04,C5_Close public transport,-1.0,Nebraska
+5,2021-11-09,C5_Close public transport,1.0,Nebraska
+6,2021-11-09,C6_Stay at home requirements,-1.0,Nebraska
+7,2021-11-08,C8_International travel controls,-2.0,Nebraska
+8,2021-07-18,H2_Testing policy,-1.0,Nebraska
+9,2021-07-19,H2_Testing policy,1.0,Nebraska
+10,2021-01-13,H7_Vaccination policy,2.0,Nebraska
+11,2021-03-29,H7_Vaccination policy,1.0,Nebraska

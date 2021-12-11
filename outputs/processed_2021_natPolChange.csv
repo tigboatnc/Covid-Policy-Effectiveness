@@ -1,0 +1,17 @@
+,date_implement,policy,metric_change,state
+0,2021-02-03,C1_School closing,-1.0,national
+1,2021-05-23,C1_School closing,1.0,national
+2,2021-03-23,C2_Workplace closing,-1.0,national
+3,2021-06-14,C2_Workplace closing,1.0,national
+4,2021-03-23,C3_Cancel public events,-1.0,national
+5,2021-06-14,C3_Cancel public events,1.0,national
+6,2021-07-08,C4_Restrictions on gatherings,-1.0,national
+7,2021-08-10,C4_Restrictions on gatherings,1.0,national
+8,2021-03-04,C6_Stay at home requirements,-1.0,national
+9,2021-03-29,C7_Restrictions on internal movement,-1.0,national
+10,2021-06-14,C7_Restrictions on internal movement,1.0,national
+11,2021-06-14,C8_International travel controls,-1.0,national
+12,2021-06-21,C8_International travel controls,1.0,national
+13,2021-11-08,C8_International travel controls,-2.0,national
+14,2021-05-23,H6_Facial Coverings,-1.0,national
+15,2021-02-27,H7_Vaccination policy,1.0,national

@@ -1,0 +1,1087 @@
+,date_implement,policy,metric_change,metric_value,state
+0,2020-03-13,C1_School closing,1.0,1.0,Alaska
+1,2020-03-16,C1_School closing,2.0,3.0,Alaska
+2,2020-03-12,C2_Workplace closing,1.0,1.0,Alaska
+3,2020-03-16,C2_Workplace closing,1.0,2.0,Alaska
+4,2020-03-22,C2_Workplace closing,1.0,3.0,Alaska
+5,2020-08-03,C2_Workplace closing,1.0,2.0,Alaska
+6,2020-12-01,C2_Workplace closing,1.0,2.0,Alaska
+7,2020-04-24,C2_Workplace closing,-1.0,2.0,Alaska
+8,2020-05-08,C2_Workplace closing,-1.0,1.0,Alaska
+9,2020-08-31,C2_Workplace closing,-1.0,1.0,Alaska
+10,2020-03-13,C3_Cancel public events,1.0,1.0,Alaska
+11,2020-03-17,C3_Cancel public events,1.0,2.0,Alaska
+12,2020-12-01,C3_Cancel public events,1.0,2.0,Alaska
+13,2020-05-08,C3_Cancel public events,-1.0,1.0,Alaska
+14,2020-03-16,C4_Restrictions on gatherings,3.0,3.0,Alaska
+15,2020-03-21,C4_Restrictions on gatherings,1.0,4.0,Alaska
+16,2020-07-24,C4_Restrictions on gatherings,1.0,3.0,Alaska
+17,2020-12-01,C4_Restrictions on gatherings,1.0,4.0,Alaska
+18,2020-04-24,C4_Restrictions on gatherings,-1.0,3.0,Alaska
+19,2020-05-29,C4_Restrictions on gatherings,-1.0,2.0,Alaska
+20,2020-03-18,C5_Close public transport,1.0,1.0,Alaska
+21,2020-04-03,C5_Close public transport,1.0,2.0,Alaska
+22,2020-06-01,C5_Close public transport,-2.0,0.0,Alaska
+23,2020-03-22,C6_Stay at home requirements,2.0,2.0,Alaska
+24,2020-04-24,C6_Stay at home requirements,-1.0,1.0,Alaska
+25,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Alaska
+26,2020-03-28,C7_Restrictions on internal movement,1.0,2.0,Alaska
+27,2020-05-12,C7_Restrictions on internal movement,1.0,2.0,Alaska
+28,2020-07-15,C7_Restrictions on internal movement,1.0,2.0,Alaska
+29,2020-04-24,C7_Restrictions on internal movement,-1.0,1.0,Alaska
+30,2020-06-05,C7_Restrictions on internal movement,-1.0,1.0,Alaska
+31,2020-03-02,C8_International travel controls,3.0,3.0,Alaska
+32,2020-01-08,H1_Public information campaigns,1.0,1.0,Alaska
+33,2020-02-07,H1_Public information campaigns,1.0,2.0,Alaska
+34,2020-01-21,H2_Testing policy,1.0,1.0,Alaska
+35,2020-04-09,H2_Testing policy,1.0,2.0,Alaska
+36,2020-08-19,H2_Testing policy,1.0,3.0,Alaska
+37,2020-01-21,H3_Contact tracing,1.0,1.0,Alaska
+38,2020-03-12,H3_Contact tracing,1.0,2.0,Alaska
+39,2020-08-22,H3_Contact tracing,1.0,2.0,Alaska
+40,2020-07-03,H3_Contact tracing,-1.0,1.0,Alaska
+41,2020-10-25,H3_Contact tracing,-1.0,1.0,Alaska
+42,2020-04-04,H6_Facial Coverings,1.0,1.0,Alaska
+43,2020-06-29,H6_Facial Coverings,2.0,3.0,Alaska
+44,2020-12-15,H7_Vaccination policy,1.0,1.0,Alaska
+45,2020-12-18,H7_Vaccination policy,1.0,2.0,Alaska
+0,2020-03-13,C1_School closing,1.0,1.0,Alabama
+1,2020-03-19,C1_School closing,1.0,2.0,Alabama
+2,2020-03-20,C1_School closing,1.0,3.0,Alabama
+3,2020-08-16,C1_School closing,-1.0,2.0,Alabama
+4,2020-03-12,C2_Workplace closing,1.0,1.0,Alabama
+5,2020-03-17,C2_Workplace closing,1.0,2.0,Alabama
+6,2020-03-20,C2_Workplace closing,1.0,3.0,Alabama
+7,2020-08-24,C2_Workplace closing,1.0,2.0,Alabama
+8,2020-04-30,C2_Workplace closing,-1.0,2.0,Alabama
+9,2020-06-07,C2_Workplace closing,-1.0,1.0,Alabama
+10,2020-09-08,C2_Workplace closing,-1.0,1.0,Alabama
+11,2020-03-13,C3_Cancel public events,1.0,1.0,Alabama
+12,2020-03-17,C3_Cancel public events,1.0,2.0,Alabama
+13,2020-06-06,C3_Cancel public events,-1.0,1.0,Alabama
+14,2020-03-17,C4_Restrictions on gatherings,3.0,3.0,Alabama
+15,2020-03-19,C4_Restrictions on gatherings,1.0,4.0,Alabama
+16,2020-05-21,C4_Restrictions on gatherings,-4.0,0.0,Alabama
+17,2020-03-24,C5_Close public transport,1.0,1.0,Alabama
+18,2020-08-28,C5_Close public transport,-1.0,0.0,Alabama
+19,2020-03-24,C6_Stay at home requirements,2.0,2.0,Alabama
+20,2020-06-20,C6_Stay at home requirements,-1.0,1.0,Alabama
+21,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Alabama
+22,2020-03-02,C8_International travel controls,3.0,3.0,Alabama
+23,2020-03-10,H1_Public information campaigns,2.0,2.0,Alabama
+24,2020-01-21,H2_Testing policy,1.0,1.0,Alabama
+25,2020-06-05,H2_Testing policy,1.0,3.0,Alabama
+26,2020-03-02,H2_Testing policy,-1.0,0.0,Alabama
+27,2020-03-06,H2_Testing policy,2.0,2.0,Alabama
+28,2020-01-21,H3_Contact tracing,1.0,1.0,Alabama
+29,2020-03-31,H3_Contact tracing,1.0,2.0,Alabama
+30,2020-10-23,H3_Contact tracing,-1.0,1.0,Alabama
+31,2020-04-04,H6_Facial Coverings,1.0,1.0,Alabama
+32,2020-05-01,H6_Facial Coverings,2.0,3.0,Alabama
+33,2020-12-15,H7_Vaccination policy,1.0,1.0,Alabama
+34,2020-12-22,H7_Vaccination policy,1.0,2.0,Alabama
+0,2020-03-12,C1_School closing,1.0,1.0,Arkansas
+1,2020-09-29,C1_School closing,1.0,2.0,Arkansas
+2,2020-11-03,C1_School closing,1.0,2.0,Arkansas
+3,2020-03-17,C1_School closing,2.0,3.0,Arkansas
+4,2020-08-24,C1_School closing,-1.0,2.0,Arkansas
+5,2020-08-27,C1_School closing,-1.0,1.0,Arkansas
+6,2020-10-19,C1_School closing,-1.0,1.0,Arkansas
+7,2020-03-12,C2_Workplace closing,1.0,1.0,Arkansas
+8,2020-03-17,C2_Workplace closing,1.0,2.0,Arkansas
+9,2020-12-19,C2_Workplace closing,1.0,2.0,Arkansas
+10,2020-11-17,C2_Workplace closing,-1.0,1.0,Arkansas
+11,2020-03-13,C3_Cancel public events,1.0,1.0,Arkansas
+12,2020-03-27,C3_Cancel public events,1.0,2.0,Arkansas
+13,2020-05-04,C3_Cancel public events,-1.0,1.0,Arkansas
+14,2020-03-27,C4_Restrictions on gatherings,4.0,4.0,Arkansas
+15,2020-05-04,C4_Restrictions on gatherings,-1.0,3.0,Arkansas
+16,2020-06-15,C4_Restrictions on gatherings,-2.0,1.0,Arkansas
+17,2020-05-11,C5_Close public transport,1.0,1.0,Arkansas
+18,2020-04-03,C6_Stay at home requirements,1.0,1.0,Arkansas
+19,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Arkansas
+20,2020-05-05,C7_Restrictions on internal movement,1.0,2.0,Arkansas
+21,2020-06-15,C7_Restrictions on internal movement,-1.0,1.0,Arkansas
+22,2020-03-02,C8_International travel controls,3.0,3.0,Arkansas
+23,2020-03-11,H1_Public information campaigns,1.0,1.0,Arkansas
+24,2020-03-16,H1_Public information campaigns,1.0,2.0,Arkansas
+25,2020-01-21,H2_Testing policy,1.0,1.0,Arkansas
+26,2020-04-21,H2_Testing policy,1.0,2.0,Arkansas
+27,2020-05-15,H2_Testing policy,1.0,3.0,Arkansas
+28,2020-11-03,H2_Testing policy,-1.0,2.0,Arkansas
+29,2020-01-21,H3_Contact tracing,1.0,1.0,Arkansas
+30,2020-08-18,H3_Contact tracing,1.0,2.0,Arkansas
+31,2020-04-03,H6_Facial Coverings,1.0,1.0,Arkansas
+32,2020-06-16,H6_Facial Coverings,2.0,3.0,Arkansas
+33,2020-12-14,H7_Vaccination policy,1.0,1.0,Arkansas
+34,2020-12-28,H7_Vaccination policy,1.0,2.0,Arkansas
+0,2020-03-13,C1_School closing,1.0,1.0,Arizona
+1,2020-03-16,C1_School closing,2.0,3.0,Arizona
+2,2020-08-20,C1_School closing,-1.0,2.0,Arizona
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Arizona
+4,2020-03-17,C2_Workplace closing,1.0,2.0,Arizona
+5,2020-06-29,C2_Workplace closing,1.0,2.0,Arizona
+6,2020-05-16,C2_Workplace closing,-1.0,1.0,Arizona
+7,2020-10-22,C2_Workplace closing,-1.0,1.0,Arizona
+8,2020-03-15,C3_Cancel public events,1.0,1.0,Arizona
+9,2020-04-30,C3_Cancel public events,1.0,2.0,Arizona
+10,2020-12-07,C3_Cancel public events,1.0,2.0,Arizona
+11,2020-08-11,C3_Cancel public events,-1.0,1.0,Arizona
+12,2020-08-03,C4_Restrictions on gatherings,3.0,3.0,Arizona
+13,2020-03-31,C5_Close public transport,1.0,1.0,Arizona
+14,2020-08-03,C5_Close public transport,1.0,1.0,Arizona
+15,2020-11-01,C5_Close public transport,1.0,1.0,Arizona
+16,2020-05-16,C5_Close public transport,-1.0,0.0,Arizona
+17,2020-10-01,C5_Close public transport,-1.0,0.0,Arizona
+18,2020-11-09,C5_Close public transport,-1.0,0.0,Arizona
+19,2020-03-31,C6_Stay at home requirements,2.0,2.0,Arizona
+20,2020-05-16,C6_Stay at home requirements,-1.0,1.0,Arizona
+21,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Arizona
+22,2020-04-09,C7_Restrictions on internal movement,1.0,2.0,Arizona
+23,2020-05-16,C7_Restrictions on internal movement,-1.0,1.0,Arizona
+24,2020-03-02,C8_International travel controls,3.0,3.0,Arizona
+25,2020-01-26,H1_Public information campaigns,1.0,1.0,Arizona
+26,2020-03-02,H1_Public information campaigns,1.0,2.0,Arizona
+27,2020-01-21,H2_Testing policy,1.0,1.0,Arizona
+28,2020-04-09,H2_Testing policy,1.0,2.0,Arizona
+29,2020-07-11,H2_Testing policy,1.0,3.0,Arizona
+30,2020-01-21,H3_Contact tracing,1.0,1.0,Arizona
+31,2020-05-16,H3_Contact tracing,1.0,2.0,Arizona
+32,2020-04-04,H6_Facial Coverings,1.0,1.0,Arizona
+33,2020-06-19,H6_Facial Coverings,2.0,3.0,Arizona
+0,2020-03-07,C1_School closing,1.0,1.0,California
+1,2020-03-13,C1_School closing,1.0,2.0,California
+2,2020-03-17,C1_School closing,1.0,3.0,California
+3,2020-03-12,C2_Workplace closing,1.0,1.0,California
+4,2020-03-17,C2_Workplace closing,2.0,3.0,California
+5,2020-05-08,C2_Workplace closing,-1.0,2.0,California
+6,2020-03-07,C3_Cancel public events,1.0,1.0,California
+7,2020-03-11,C3_Cancel public events,1.0,2.0,California
+8,2020-03-11,C4_Restrictions on gatherings,2.0,2.0,California
+9,2020-03-16,C4_Restrictions on gatherings,2.0,4.0,California
+10,2020-10-09,C4_Restrictions on gatherings,-1.0,3.0,California
+11,2020-11-30,C4_Restrictions on gatherings,1.0,4.0,California
+12,2020-03-11,C6_Stay at home requirements,1.0,1.0,California
+13,2020-03-17,C6_Stay at home requirements,1.0,2.0,California
+14,2020-11-21,C6_Stay at home requirements,1.0,2.0,California
+15,2020-05-08,C6_Stay at home requirements,-1.0,1.0,California
+16,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,California
+17,2020-03-19,C7_Restrictions on internal movement,1.0,2.0,California
+18,2020-12-30,C7_Restrictions on internal movement,1.0,2.0,California
+19,2020-05-08,C7_Restrictions on internal movement,-1.0,1.0,California
+20,2020-01-17,C8_International travel controls,1.0,1.0,California
+21,2020-03-02,C8_International travel controls,2.0,3.0,California
+22,2020-02-02,H1_Public information campaigns,1.0,1.0,California
+23,2020-03-16,H1_Public information campaigns,1.0,2.0,California
+24,2020-01-21,H2_Testing policy,1.0,1.0,California
+25,2020-04-19,H2_Testing policy,1.0,2.0,California
+26,2020-08-20,H2_Testing policy,1.0,3.0,California
+27,2020-09-22,H2_Testing policy,1.0,3.0,California
+28,2020-08-26,H2_Testing policy,-1.0,2.0,California
+29,2020-01-21,H3_Contact tracing,1.0,1.0,California
+30,2020-05-22,H3_Contact tracing,1.0,2.0,California
+31,2020-04-01,H6_Facial Coverings,1.0,1.0,California
+32,2020-04-04,H6_Facial Coverings,1.0,2.0,California
+33,2020-04-06,H6_Facial Coverings,1.0,3.0,California
+34,2020-12-15,H7_Vaccination policy,2.0,2.0,California
+0,2020-03-13,C1_School closing,1.0,1.0,Colorado
+1,2020-03-16,C1_School closing,1.0,2.0,Colorado
+2,2020-03-30,C1_School closing,1.0,3.0,Colorado
+3,2020-06-01,C1_School closing,-1.0,2.0,Colorado
+4,2020-03-12,C2_Workplace closing,1.0,1.0,Colorado
+5,2020-03-15,C2_Workplace closing,1.0,2.0,Colorado
+6,2020-03-24,C2_Workplace closing,1.0,3.0,Colorado
+7,2020-04-27,C2_Workplace closing,-1.0,2.0,Colorado
+8,2020-03-12,C3_Cancel public events,1.0,1.0,Colorado
+9,2020-03-19,C3_Cancel public events,1.0,2.0,Colorado
+10,2020-06-18,C3_Cancel public events,-1.0,1.0,Colorado
+11,2020-03-12,C4_Restrictions on gatherings,3.0,3.0,Colorado
+12,2020-03-20,C4_Restrictions on gatherings,1.0,4.0,Colorado
+13,2020-03-16,C5_Close public transport,1.0,1.0,Colorado
+14,2020-03-24,C6_Stay at home requirements,2.0,2.0,Colorado
+15,2020-05-09,C6_Stay at home requirements,-1.0,1.0,Colorado
+16,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Colorado
+17,2020-04-27,C7_Restrictions on internal movement,1.0,2.0,Colorado
+18,2020-05-09,C7_Restrictions on internal movement,-1.0,1.0,Colorado
+19,2020-03-02,C8_International travel controls,3.0,3.0,Colorado
+20,2020-02-27,H1_Public information campaigns,1.0,1.0,Colorado
+21,2020-03-16,H1_Public information campaigns,1.0,2.0,Colorado
+22,2020-01-21,H2_Testing policy,1.0,1.0,Colorado
+23,2020-05-18,H2_Testing policy,1.0,2.0,Colorado
+24,2020-01-21,H3_Contact tracing,1.0,1.0,Colorado
+25,2020-07-23,H3_Contact tracing,1.0,2.0,Colorado
+26,2020-04-03,H6_Facial Coverings,1.0,1.0,Colorado
+27,2020-05-14,H6_Facial Coverings,1.0,2.0,Colorado
+28,2020-10-11,H6_Facial Coverings,1.0,3.0,Colorado
+29,2020-12-14,H7_Vaccination policy,1.0,1.0,Colorado
+30,2020-12-30,H7_Vaccination policy,1.0,2.0,Colorado
+0,2020-03-11,C1_School closing,2.0,2.0,Connecticut
+1,2020-03-13,C1_School closing,1.0,3.0,Connecticut
+2,2020-08-26,C1_School closing,-1.0,2.0,Connecticut
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Connecticut
+4,2020-03-16,C2_Workplace closing,1.0,2.0,Connecticut
+5,2020-03-23,C2_Workplace closing,1.0,3.0,Connecticut
+6,2020-05-20,C2_Workplace closing,-1.0,2.0,Connecticut
+7,2020-03-09,C3_Cancel public events,2.0,2.0,Connecticut
+8,2020-07-03,C3_Cancel public events,-1.0,1.0,Connecticut
+9,2020-03-12,C4_Restrictions on gatherings,2.0,2.0,Connecticut
+10,2020-03-16,C4_Restrictions on gatherings,1.0,3.0,Connecticut
+11,2020-03-19,C4_Restrictions on gatherings,1.0,4.0,Connecticut
+12,2020-11-06,C4_Restrictions on gatherings,1.0,4.0,Connecticut
+13,2020-06-17,C4_Restrictions on gatherings,-1.0,3.0,Connecticut
+14,2020-03-27,C5_Close public transport,1.0,1.0,Connecticut
+15,2020-03-22,C6_Stay at home requirements,1.0,1.0,Connecticut
+16,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Connecticut
+17,2020-07-24,C7_Restrictions on internal movement,1.0,2.0,Connecticut
+18,2020-03-02,C8_International travel controls,3.0,3.0,Connecticut
+19,2020-01-27,H1_Public information campaigns,1.0,1.0,Connecticut
+20,2020-02-26,H1_Public information campaigns,1.0,2.0,Connecticut
+21,2020-01-21,H2_Testing policy,1.0,1.0,Connecticut
+22,2020-04-17,H2_Testing policy,1.0,2.0,Connecticut
+23,2020-05-13,H2_Testing policy,1.0,3.0,Connecticut
+24,2020-01-21,H3_Contact tracing,1.0,1.0,Connecticut
+25,2020-05-18,H3_Contact tracing,1.0,2.0,Connecticut
+26,2020-04-04,H6_Facial Coverings,1.0,1.0,Connecticut
+27,2020-04-20,H6_Facial Coverings,2.0,3.0,Connecticut
+28,2020-12-14,H7_Vaccination policy,2.0,2.0,Connecticut
+0,2020-03-13,C1_School closing,1.0,1.0,Washington
+1,2020-03-16,C1_School closing,1.0,2.0,Washington
+2,2020-05-30,C1_School closing,1.0,3.0,Washington
+3,2020-08-10,C1_School closing,-1.0,2.0,Washington
+4,2020-11-18,C1_School closing,-1.0,1.0,Washington
+5,2020-03-12,C2_Workplace closing,1.0,1.0,Washington
+6,2020-12-23,C2_Workplace closing,1.0,3.0,Washington
+7,2020-03-25,C2_Workplace closing,2.0,3.0,Washington
+8,2020-05-29,C2_Workplace closing,-1.0,2.0,Washington
+9,2020-03-11,C3_Cancel public events,1.0,1.0,Washington
+10,2020-03-25,C3_Cancel public events,1.0,2.0,Washington
+11,2020-03-13,C4_Restrictions on gatherings,2.0,2.0,Washington
+12,2020-03-16,C4_Restrictions on gatherings,1.0,3.0,Washington
+13,2020-03-13,C5_Close public transport,1.0,1.0,Washington
+14,2020-04-01,C5_Close public transport,1.0,2.0,Washington
+15,2020-06-28,C5_Close public transport,-1.0,1.0,Washington
+16,2020-08-23,C5_Close public transport,-1.0,0.0,Washington
+17,2020-04-01,C6_Stay at home requirements,2.0,2.0,Washington
+18,2020-05-29,C6_Stay at home requirements,-1.0,1.0,Washington
+19,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Washington
+20,2020-04-01,C7_Restrictions on internal movement,1.0,2.0,Washington
+21,2020-07-27,C7_Restrictions on internal movement,1.0,2.0,Washington
+22,2020-10-19,C7_Restrictions on internal movement,1.0,2.0,Washington
+23,2020-05-29,C7_Restrictions on internal movement,-1.0,1.0,Washington
+24,2020-10-17,C7_Restrictions on internal movement,-1.0,1.0,Washington
+25,2020-03-02,C8_International travel controls,3.0,3.0,Washington
+26,2020-03-04,H1_Public information campaigns,2.0,2.0,Washington
+27,2020-01-21,H2_Testing policy,1.0,1.0,Washington
+28,2020-04-03,H2_Testing policy,1.0,2.0,Washington
+29,2020-11-18,H2_Testing policy,1.0,3.0,Washington
+30,2020-01-21,H3_Contact tracing,1.0,1.0,Washington
+31,2020-08-05,H3_Contact tracing,1.0,2.0,Washington
+32,2020-08-17,H3_Contact tracing,1.0,2.0,Washington
+33,2020-08-14,H3_Contact tracing,-1.0,1.0,Washington
+34,2020-04-04,H6_Facial Coverings,1.0,1.0,Washington
+35,2020-05-13,H6_Facial Coverings,2.0,3.0,Washington
+36,2020-07-22,H6_Facial Coverings,2.0,3.0,Washington
+37,2020-05-29,H6_Facial Coverings,-2.0,1.0,Washington
+38,2020-12-14,H7_Vaccination policy,2.0,2.0,Washington
+0,2020-03-13,C1_School closing,1.0,1.0,Delaware
+1,2020-03-16,C1_School closing,2.0,3.0,Delaware
+2,2020-08-28,C1_School closing,-1.0,2.0,Delaware
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Delaware
+4,2020-03-16,C2_Workplace closing,1.0,2.0,Delaware
+5,2020-03-12,C3_Cancel public events,1.0,1.0,Delaware
+6,2020-03-16,C3_Cancel public events,1.0,2.0,Delaware
+7,2020-12-14,C3_Cancel public events,1.0,2.0,Delaware
+8,2020-09-04,C3_Cancel public events,-1.0,1.0,Delaware
+9,2020-03-16,C4_Restrictions on gatherings,3.0,3.0,Delaware
+10,2020-04-02,C4_Restrictions on gatherings,1.0,4.0,Delaware
+11,2020-06-15,C4_Restrictions on gatherings,-2.0,2.0,Delaware
+12,2020-11-23,C4_Restrictions on gatherings,2.0,4.0,Delaware
+13,2020-03-18,C5_Close public transport,1.0,1.0,Delaware
+14,2020-09-04,C5_Close public transport,-1.0,0.0,Delaware
+15,2020-03-09,C6_Stay at home requirements,1.0,1.0,Delaware
+16,2020-03-24,C6_Stay at home requirements,1.0,2.0,Delaware
+17,2020-07-15,C6_Stay at home requirements,-1.0,1.0,Delaware
+18,2020-03-13,C7_Restrictions on internal movement,1.0,1.0,Delaware
+19,2020-03-30,C7_Restrictions on internal movement,1.0,2.0,Delaware
+20,2020-06-01,C7_Restrictions on internal movement,-1.0,1.0,Delaware
+21,2020-02-07,C8_International travel controls,1.0,1.0,Delaware
+22,2020-03-02,C8_International travel controls,2.0,3.0,Delaware
+23,2020-01-28,H1_Public information campaigns,1.0,1.0,Delaware
+24,2020-03-02,H1_Public information campaigns,1.0,2.0,Delaware
+25,2020-01-21,H2_Testing policy,1.0,1.0,Delaware
+26,2020-05-08,H2_Testing policy,1.0,2.0,Delaware
+27,2020-07-16,H2_Testing policy,1.0,3.0,Delaware
+28,2020-01-21,H3_Contact tracing,1.0,1.0,Delaware
+29,2020-05-12,H3_Contact tracing,1.0,2.0,Delaware
+30,2020-04-04,H6_Facial Coverings,1.0,1.0,Delaware
+31,2020-12-14,H6_Facial Coverings,1.0,4.0,Delaware
+32,2020-04-28,H6_Facial Coverings,2.0,3.0,Delaware
+33,2020-12-17,H7_Vaccination policy,1.0,1.0,Delaware
+0,2020-03-12,C1_School closing,2.0,2.0,Florida
+1,2020-03-17,C1_School closing,1.0,3.0,Florida
+2,2020-11-30,C1_School closing,1.0,2.0,Florida
+3,2020-08-01,C1_School closing,-1.0,2.0,Florida
+4,2020-10-05,C1_School closing,-1.0,1.0,Florida
+5,2020-03-12,C2_Workplace closing,1.0,1.0,Florida
+6,2020-03-20,C2_Workplace closing,1.0,3.0,Florida
+7,2020-03-16,C2_Workplace closing,2.0,3.0,Florida
+8,2020-03-17,C2_Workplace closing,-1.0,2.0,Florida
+9,2020-05-20,C2_Workplace closing,-1.0,2.0,Florida
+10,2020-10-02,C2_Workplace closing,-1.0,1.0,Florida
+11,2020-03-12,C3_Cancel public events,1.0,1.0,Florida
+12,2020-03-16,C3_Cancel public events,1.0,2.0,Florida
+13,2020-09-25,C3_Cancel public events,-1.0,1.0,Florida
+14,2020-03-17,C4_Restrictions on gatherings,4.0,4.0,Florida
+15,2020-12-16,C4_Restrictions on gatherings,4.0,4.0,Florida
+16,2020-09-25,C4_Restrictions on gatherings,-1.0,3.0,Florida
+17,2020-10-02,C4_Restrictions on gatherings,-3.0,0.0,Florida
+18,2020-03-20,C5_Close public transport,1.0,1.0,Florida
+19,2020-11-15,C5_Close public transport,-1.0,0.0,Florida
+20,2020-03-16,C6_Stay at home requirements,2.0,2.0,Florida
+21,2020-06-08,C6_Stay at home requirements,-1.0,1.0,Florida
+22,2020-07-03,C6_Stay at home requirements,1.0,2.0,Florida
+23,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Florida
+24,2020-03-24,C7_Restrictions on internal movement,1.0,2.0,Florida
+25,2020-08-05,C7_Restrictions on internal movement,-1.0,1.0,Florida
+26,2020-03-02,C8_International travel controls,3.0,3.0,Florida
+27,2020-02-25,H1_Public information campaigns,1.0,1.0,Florida
+28,2020-03-01,H1_Public information campaigns,1.0,2.0,Florida
+29,2020-01-21,H2_Testing policy,1.0,1.0,Florida
+30,2020-07-14,H2_Testing policy,1.0,2.0,Florida
+31,2020-01-21,H3_Contact tracing,1.0,1.0,Florida
+32,2020-04-04,H6_Facial Coverings,1.0,1.0,Florida
+33,2020-04-09,H6_Facial Coverings,1.0,2.0,Florida
+34,2020-04-13,H6_Facial Coverings,1.0,3.0,Florida
+35,2020-12-14,H7_Vaccination policy,1.0,1.0,Florida
+36,2020-12-18,H7_Vaccination policy,1.0,2.0,Florida
+0,2020-03-12,C1_School closing,1.0,1.0,Georgia
+1,2020-03-18,C1_School closing,2.0,3.0,Georgia
+2,2020-08-17,C1_School closing,-1.0,2.0,Georgia
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Georgia
+4,2020-03-23,C2_Workplace closing,1.0,2.0,Georgia
+5,2020-07-01,C2_Workplace closing,-1.0,1.0,Georgia
+6,2020-03-14,C3_Cancel public events,1.0,1.0,Georgia
+7,2020-04-03,C3_Cancel public events,1.0,2.0,Georgia
+8,2020-12-30,C3_Cancel public events,-1.0,1.0,Georgia
+9,2020-04-02,C4_Restrictions on gatherings,4.0,4.0,Georgia
+10,2020-05-28,C4_Restrictions on gatherings,-1.0,3.0,Georgia
+11,2020-04-20,C5_Close public transport,1.0,1.0,Georgia
+12,2020-10-01,C5_Close public transport,-1.0,0.0,Georgia
+13,2020-03-21,C6_Stay at home requirements,2.0,2.0,Georgia
+14,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Georgia
+15,2020-03-02,C8_International travel controls,3.0,3.0,Georgia
+16,2020-03-13,H1_Public information campaigns,2.0,2.0,Georgia
+17,2020-01-21,H2_Testing policy,1.0,1.0,Georgia
+18,2020-03-15,H2_Testing policy,1.0,1.0,Georgia
+19,2020-04-26,H2_Testing policy,1.0,2.0,Georgia
+20,2020-05-07,H2_Testing policy,1.0,3.0,Georgia
+21,2020-03-02,H2_Testing policy,-1.0,0.0,Georgia
+22,2020-01-21,H3_Contact tracing,1.0,1.0,Georgia
+23,2020-05-12,H3_Contact tracing,1.0,2.0,Georgia
+24,2020-09-18,H3_Contact tracing,-1.0,1.0,Georgia
+25,2020-04-04,H6_Facial Coverings,1.0,1.0,Georgia
+26,2020-08-17,H6_Facial Coverings,1.0,2.0,Georgia
+27,2020-12-15,H7_Vaccination policy,1.0,1.0,Georgia
+28,2020-12-17,H7_Vaccination policy,1.0,2.0,Georgia
+0,2020-03-13,C1_School closing,1.0,1.0,Hawaii
+1,2020-03-23,C1_School closing,1.0,2.0,Hawaii
+2,2020-03-30,C1_School closing,1.0,3.0,Hawaii
+3,2020-08-24,C1_School closing,-1.0,2.0,Hawaii
+4,2020-03-12,C2_Workplace closing,1.0,1.0,Hawaii
+5,2020-03-20,C2_Workplace closing,1.0,2.0,Hawaii
+6,2020-03-25,C2_Workplace closing,1.0,3.0,Hawaii
+7,2020-05-05,C2_Workplace closing,-1.0,2.0,Hawaii
+8,2020-03-13,C3_Cancel public events,1.0,1.0,Hawaii
+9,2020-07-17,C3_Cancel public events,1.0,2.0,Hawaii
+10,2020-03-25,C4_Restrictions on gatherings,4.0,4.0,Hawaii
+11,2020-07-17,C5_Close public transport,1.0,1.0,Hawaii
+12,2020-03-20,C6_Stay at home requirements,1.0,1.0,Hawaii
+13,2020-03-25,C6_Stay at home requirements,1.0,2.0,Hawaii
+14,2020-12-04,C6_Stay at home requirements,1.0,2.0,Hawaii
+15,2020-11-12,C6_Stay at home requirements,-1.0,1.0,Hawaii
+16,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Hawaii
+17,2020-03-26,C7_Restrictions on internal movement,1.0,2.0,Hawaii
+18,2020-03-02,C8_International travel controls,3.0,3.0,Hawaii
+19,2020-01-29,H1_Public information campaigns,1.0,1.0,Hawaii
+20,2020-02-21,H1_Public information campaigns,1.0,2.0,Hawaii
+21,2020-01-21,H2_Testing policy,1.0,1.0,Hawaii
+22,2020-03-10,H2_Testing policy,1.0,1.0,Hawaii
+23,2020-05-29,H2_Testing policy,1.0,2.0,Hawaii
+24,2020-09-01,H2_Testing policy,1.0,3.0,Hawaii
+25,2020-10-19,H2_Testing policy,1.0,3.0,Hawaii
+26,2020-03-02,H2_Testing policy,-1.0,0.0,Hawaii
+27,2020-09-15,H2_Testing policy,-1.0,2.0,Hawaii
+28,2020-01-21,H3_Contact tracing,1.0,1.0,Hawaii
+29,2020-04-15,H3_Contact tracing,1.0,2.0,Hawaii
+30,2020-04-02,H6_Facial Coverings,1.0,1.0,Hawaii
+31,2020-04-16,H6_Facial Coverings,1.0,2.0,Hawaii
+32,2020-07-02,H6_Facial Coverings,1.0,3.0,Hawaii
+33,2020-12-15,H7_Vaccination policy,1.0,1.0,Hawaii
+34,2020-12-21,H7_Vaccination policy,1.0,2.0,Hawaii
+0,2020-03-13,C1_School closing,1.0,1.0,Iowa
+1,2020-11-11,C1_School closing,1.0,2.0,Iowa
+2,2020-04-02,C1_School closing,2.0,3.0,Iowa
+3,2020-08-24,C1_School closing,-1.0,2.0,Iowa
+4,2020-11-10,C1_School closing,-1.0,1.0,Iowa
+5,2020-03-12,C2_Workplace closing,1.0,1.0,Iowa
+6,2020-03-17,C2_Workplace closing,1.0,2.0,Iowa
+7,2020-08-27,C2_Workplace closing,1.0,2.0,Iowa
+8,2020-06-12,C2_Workplace closing,-1.0,1.0,Iowa
+9,2020-10-05,C2_Workplace closing,-1.0,1.0,Iowa
+10,2020-03-15,C3_Cancel public events,1.0,1.0,Iowa
+11,2020-03-17,C3_Cancel public events,1.0,2.0,Iowa
+12,2020-06-01,C3_Cancel public events,-1.0,1.0,Iowa
+13,2020-03-17,C4_Restrictions on gatherings,4.0,4.0,Iowa
+14,2020-06-01,C4_Restrictions on gatherings,-4.0,0.0,Iowa
+15,2020-11-11,C4_Restrictions on gatherings,3.0,3.0,Iowa
+16,2020-12-17,C4_Restrictions on gatherings,-3.0,0.0,Iowa
+17,2020-04-06,C5_Close public transport,1.0,1.0,Iowa
+18,2020-08-23,C5_Close public transport,-1.0,0.0,Iowa
+19,2020-03-21,C6_Stay at home requirements,1.0,1.0,Iowa
+20,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Iowa
+21,2020-03-02,C8_International travel controls,3.0,3.0,Iowa
+22,2020-03-03,H1_Public information campaigns,1.0,1.0,Iowa
+23,2020-03-16,H1_Public information campaigns,1.0,2.0,Iowa
+24,2020-01-21,H2_Testing policy,1.0,1.0,Iowa
+25,2020-03-19,H2_Testing policy,1.0,1.0,Iowa
+26,2020-04-21,H2_Testing policy,1.0,2.0,Iowa
+27,2020-03-02,H2_Testing policy,-1.0,0.0,Iowa
+28,2020-01-21,H3_Contact tracing,1.0,1.0,Iowa
+29,2020-04-21,H3_Contact tracing,1.0,2.0,Iowa
+30,2020-08-26,H3_Contact tracing,-1.0,1.0,Iowa
+31,2020-04-04,H6_Facial Coverings,1.0,1.0,Iowa
+32,2020-07-13,H6_Facial Coverings,1.0,2.0,Iowa
+33,2020-07-21,H6_Facial Coverings,1.0,3.0,Iowa
+34,2020-12-14,H7_Vaccination policy,1.0,1.0,Iowa
+35,2020-12-28,H7_Vaccination policy,1.0,2.0,Iowa
+0,2020-03-13,C1_School closing,1.0,1.0,Idaho
+1,2020-11-16,C1_School closing,1.0,2.0,Idaho
+2,2020-03-23,C1_School closing,2.0,3.0,Idaho
+3,2020-08-17,C1_School closing,-1.0,2.0,Idaho
+4,2020-09-21,C1_School closing,-1.0,1.0,Idaho
+5,2020-03-12,C2_Workplace closing,1.0,1.0,Idaho
+6,2020-06-23,C2_Workplace closing,1.0,2.0,Idaho
+7,2020-03-25,C2_Workplace closing,2.0,3.0,Idaho
+8,2020-05-01,C2_Workplace closing,-1.0,2.0,Idaho
+9,2020-06-11,C2_Workplace closing,-1.0,1.0,Idaho
+10,2020-12-30,C2_Workplace closing,-1.0,1.0,Idaho
+11,2020-03-15,C3_Cancel public events,1.0,1.0,Idaho
+12,2020-03-25,C3_Cancel public events,1.0,2.0,Idaho
+13,2020-11-14,C3_Cancel public events,1.0,2.0,Idaho
+14,2020-05-30,C3_Cancel public events,-1.0,1.0,Idaho
+15,2020-03-25,C4_Restrictions on gatherings,4.0,4.0,Idaho
+16,2020-05-30,C4_Restrictions on gatherings,-1.0,3.0,Idaho
+17,2020-06-13,C4_Restrictions on gatherings,-3.0,0.0,Idaho
+18,2020-06-24,C4_Restrictions on gatherings,3.0,3.0,Idaho
+19,2020-08-11,C4_Restrictions on gatherings,1.0,4.0,Idaho
+20,2020-03-25,C5_Close public transport,1.0,1.0,Idaho
+21,2020-05-01,C5_Close public transport,-1.0,0.0,Idaho
+22,2020-03-25,C6_Stay at home requirements,2.0,2.0,Idaho
+23,2020-05-01,C6_Stay at home requirements,-1.0,1.0,Idaho
+24,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Idaho
+25,2020-03-25,C7_Restrictions on internal movement,1.0,2.0,Idaho
+26,2020-06-24,C7_Restrictions on internal movement,1.0,2.0,Idaho
+27,2020-05-01,C7_Restrictions on internal movement,-1.0,1.0,Idaho
+28,2020-10-20,C7_Restrictions on internal movement,-1.0,1.0,Idaho
+29,2020-03-02,C8_International travel controls,3.0,3.0,Idaho
+30,2020-03-12,H1_Public information campaigns,2.0,2.0,Idaho
+31,2020-01-21,H2_Testing policy,1.0,1.0,Idaho
+32,2020-03-12,H2_Testing policy,1.0,1.0,Idaho
+33,2020-05-20,H2_Testing policy,1.0,2.0,Idaho
+34,2020-03-02,H2_Testing policy,-1.0,0.0,Idaho
+35,2020-01-21,H3_Contact tracing,1.0,1.0,Idaho
+36,2020-04-04,H6_Facial Coverings,1.0,1.0,Idaho
+37,2020-07-14,H6_Facial Coverings,1.0,2.0,Idaho
+38,2020-10-22,H6_Facial Coverings,1.0,3.0,Idaho
+39,2020-12-14,H7_Vaccination policy,2.0,2.0,Idaho
+0,2020-03-13,C1_School closing,1.0,1.0,Illinois
+1,2020-03-17,C1_School closing,2.0,3.0,Illinois
+2,2020-10-09,C1_School closing,-1.0,2.0,Illinois
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Illinois
+4,2020-03-21,C2_Workplace closing,2.0,3.0,Illinois
+5,2020-05-29,C2_Workplace closing,-2.0,1.0,Illinois
+6,2020-03-13,C3_Cancel public events,1.0,1.0,Illinois
+7,2020-03-21,C3_Cancel public events,1.0,2.0,Illinois
+8,2020-11-20,C3_Cancel public events,1.0,2.0,Illinois
+9,2020-06-26,C3_Cancel public events,-1.0,1.0,Illinois
+10,2020-03-13,C4_Restrictions on gatherings,1.0,1.0,Illinois
+11,2020-03-21,C4_Restrictions on gatherings,1.0,4.0,Illinois
+12,2020-10-25,C4_Restrictions on gatherings,1.0,4.0,Illinois
+13,2020-03-18,C4_Restrictions on gatherings,2.0,3.0,Illinois
+14,2020-06-26,C4_Restrictions on gatherings,-1.0,3.0,Illinois
+15,2020-03-18,C6_Stay at home requirements,1.0,1.0,Illinois
+16,2020-03-21,C6_Stay at home requirements,1.0,2.0,Illinois
+17,2020-11-16,C6_Stay at home requirements,1.0,2.0,Illinois
+18,2020-06-26,C6_Stay at home requirements,-1.0,1.0,Illinois
+19,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Illinois
+20,2020-03-21,C7_Restrictions on internal movement,1.0,2.0,Illinois
+21,2020-07-06,C7_Restrictions on internal movement,1.0,2.0,Illinois
+22,2020-06-26,C7_Restrictions on internal movement,-1.0,1.0,Illinois
+23,2020-03-02,C8_International travel controls,3.0,3.0,Illinois
+24,2020-01-24,H1_Public information campaigns,1.0,1.0,Illinois
+25,2020-03-16,H1_Public information campaigns,1.0,2.0,Illinois
+26,2020-01-21,H2_Testing policy,1.0,1.0,Illinois
+27,2020-05-02,H2_Testing policy,1.0,2.0,Illinois
+28,2020-07-08,H2_Testing policy,1.0,3.0,Illinois
+29,2020-01-21,H3_Contact tracing,1.0,1.0,Illinois
+30,2020-04-04,H6_Facial Coverings,1.0,1.0,Illinois
+31,2020-05-01,H6_Facial Coverings,1.0,2.0,Illinois
+32,2020-10-01,H6_Facial Coverings,2.0,4.0,Illinois
+33,2020-12-01,H6_Facial Coverings,-1.0,3.0,Illinois
+34,2020-12-15,H7_Vaccination policy,1.0,1.0,Illinois
+35,2020-12-29,H7_Vaccination policy,1.0,2.0,Illinois
+0,2020-03-13,C1_School closing,2.0,2.0,Indiana
+1,2020-03-19,C1_School closing,1.0,3.0,Indiana
+2,2020-08-24,C1_School closing,-1.0,2.0,Indiana
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Indiana
+4,2020-03-16,C2_Workplace closing,1.0,2.0,Indiana
+5,2020-03-25,C2_Workplace closing,1.0,3.0,Indiana
+6,2020-05-18,C2_Workplace closing,-1.0,2.0,Indiana
+7,2020-06-19,C2_Workplace closing,-1.0,1.0,Indiana
+8,2020-03-15,C3_Cancel public events,1.0,1.0,Indiana
+9,2020-03-16,C3_Cancel public events,1.0,2.0,Indiana
+10,2020-07-23,C3_Cancel public events,-1.0,1.0,Indiana
+11,2020-03-12,C4_Restrictions on gatherings,2.0,2.0,Indiana
+12,2020-03-16,C4_Restrictions on gatherings,1.0,3.0,Indiana
+13,2020-03-25,C4_Restrictions on gatherings,1.0,4.0,Indiana
+14,2020-05-18,C4_Restrictions on gatherings,-1.0,3.0,Indiana
+15,2020-06-12,C4_Restrictions on gatherings,-1.0,2.0,Indiana
+16,2020-09-26,C4_Restrictions on gatherings,-2.0,0.0,Indiana
+17,2020-11-15,C4_Restrictions on gatherings,3.0,3.0,Indiana
+18,2020-03-29,C5_Close public transport,1.0,1.0,Indiana
+19,2020-06-01,C5_Close public transport,-1.0,0.0,Indiana
+20,2020-03-17,C6_Stay at home requirements,1.0,1.0,Indiana
+21,2020-03-25,C6_Stay at home requirements,1.0,2.0,Indiana
+22,2020-04-12,C6_Stay at home requirements,-1.0,1.0,Indiana
+23,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Indiana
+24,2020-12-01,C7_Restrictions on internal movement,1.0,2.0,Indiana
+25,2020-03-02,C8_International travel controls,3.0,3.0,Indiana
+26,2020-02-05,H1_Public information campaigns,1.0,1.0,Indiana
+27,2020-03-16,H1_Public information campaigns,1.0,2.0,Indiana
+28,2020-01-21,H2_Testing policy,1.0,1.0,Indiana
+29,2020-04-28,H2_Testing policy,1.0,2.0,Indiana
+30,2020-06-15,H2_Testing policy,1.0,3.0,Indiana
+31,2020-11-05,H2_Testing policy,-1.0,2.0,Indiana
+32,2020-01-21,H3_Contact tracing,1.0,1.0,Indiana
+33,2020-05-18,H3_Contact tracing,1.0,2.0,Indiana
+34,2020-04-04,H6_Facial Coverings,1.0,1.0,Indiana
+35,2020-07-27,H6_Facial Coverings,2.0,3.0,Indiana
+36,2020-11-15,H6_Facial Coverings,-1.0,2.0,Indiana
+37,2020-12-14,H7_Vaccination policy,2.0,2.0,Indiana
+0,2020-03-13,C1_School closing,1.0,1.0,Kansas
+1,2020-03-17,C1_School closing,2.0,3.0,Kansas
+2,2020-08-24,C1_School closing,-1.0,2.0,Kansas
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Kansas
+4,2020-03-24,C2_Workplace closing,2.0,3.0,Kansas
+5,2020-05-04,C2_Workplace closing,-1.0,2.0,Kansas
+6,2020-06-08,C2_Workplace closing,-1.0,1.0,Kansas
+7,2020-03-15,C3_Cancel public events,1.0,1.0,Kansas
+8,2020-03-17,C3_Cancel public events,1.0,2.0,Kansas
+9,2020-11-16,C3_Cancel public events,1.0,2.0,Kansas
+10,2020-06-08,C3_Cancel public events,-1.0,1.0,Kansas
+11,2020-03-16,C4_Restrictions on gatherings,3.0,3.0,Kansas
+12,2020-03-17,C4_Restrictions on gatherings,1.0,4.0,Kansas
+13,2020-11-20,C4_Restrictions on gatherings,1.0,4.0,Kansas
+14,2020-05-22,C4_Restrictions on gatherings,-1.0,3.0,Kansas
+15,2020-03-19,C5_Close public transport,1.0,1.0,Kansas
+16,2020-03-30,C6_Stay at home requirements,2.0,2.0,Kansas
+17,2020-05-04,C6_Stay at home requirements,-1.0,1.0,Kansas
+18,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Kansas
+19,2020-03-02,C8_International travel controls,3.0,3.0,Kansas
+20,2020-03-04,H1_Public information campaigns,1.0,1.0,Kansas
+21,2020-03-16,H1_Public information campaigns,1.0,2.0,Kansas
+22,2020-01-21,H2_Testing policy,1.0,1.0,Kansas
+23,2020-03-09,H2_Testing policy,1.0,1.0,Kansas
+24,2020-04-29,H2_Testing policy,1.0,2.0,Kansas
+25,2020-07-22,H2_Testing policy,1.0,3.0,Kansas
+26,2020-03-02,H2_Testing policy,-1.0,0.0,Kansas
+27,2020-01-21,H3_Contact tracing,1.0,1.0,Kansas
+28,2020-04-04,H6_Facial Coverings,1.0,1.0,Kansas
+29,2020-07-03,H6_Facial Coverings,2.0,3.0,Kansas
+30,2020-12-14,H7_Vaccination policy,1.0,1.0,Kansas
+31,2020-12-27,H7_Vaccination policy,1.0,2.0,Kansas
+0,2020-03-13,C1_School closing,1.0,1.0,Kentucky
+1,2020-03-20,C1_School closing,2.0,3.0,Kentucky
+2,2020-08-17,C1_School closing,-1.0,2.0,Kentucky
+3,2020-03-11,C2_Workplace closing,1.0,1.0,Kentucky
+4,2020-03-14,C2_Workplace closing,1.0,2.0,Kentucky
+5,2020-03-23,C2_Workplace closing,1.0,3.0,Kentucky
+6,2020-07-28,C2_Workplace closing,1.0,2.0,Kentucky
+7,2020-05-11,C2_Workplace closing,-1.0,2.0,Kentucky
+8,2020-06-29,C2_Workplace closing,-1.0,1.0,Kentucky
+9,2020-08-11,C2_Workplace closing,-1.0,1.0,Kentucky
+10,2020-03-11,C3_Cancel public events,1.0,1.0,Kentucky
+11,2020-03-12,C3_Cancel public events,1.0,2.0,Kentucky
+12,2020-06-29,C3_Cancel public events,-1.0,1.0,Kentucky
+13,2020-03-19,C4_Restrictions on gatherings,4.0,4.0,Kentucky
+14,2020-06-29,C4_Restrictions on gatherings,-1.0,3.0,Kentucky
+15,2020-07-21,C4_Restrictions on gatherings,1.0,4.0,Kentucky
+16,2020-03-20,C5_Close public transport,1.0,1.0,Kentucky
+17,2020-04-03,C5_Close public transport,1.0,2.0,Kentucky
+18,2020-03-26,C6_Stay at home requirements,2.0,2.0,Kentucky
+19,2020-05-22,C6_Stay at home requirements,-1.0,1.0,Kentucky
+20,2020-03-11,C7_Restrictions on internal movement,1.0,1.0,Kentucky
+21,2020-03-30,C7_Restrictions on internal movement,1.0,2.0,Kentucky
+22,2020-05-06,C7_Restrictions on internal movement,-1.0,1.0,Kentucky
+23,2020-03-02,C8_International travel controls,3.0,3.0,Kentucky
+24,2020-01-09,H1_Public information campaigns,1.0,1.0,Kentucky
+25,2020-03-07,H1_Public information campaigns,1.0,2.0,Kentucky
+26,2020-01-21,H2_Testing policy,1.0,1.0,Kentucky
+27,2020-03-06,H2_Testing policy,1.0,1.0,Kentucky
+28,2020-04-16,H2_Testing policy,1.0,2.0,Kentucky
+29,2020-04-26,H2_Testing policy,1.0,3.0,Kentucky
+30,2020-03-02,H2_Testing policy,-1.0,0.0,Kentucky
+31,2020-01-21,H3_Contact tracing,1.0,1.0,Kentucky
+32,2020-05-18,H3_Contact tracing,1.0,2.0,Kentucky
+33,2020-04-04,H6_Facial Coverings,1.0,1.0,Kentucky
+34,2020-07-10,H6_Facial Coverings,2.0,3.0,Kentucky
+35,2020-12-14,H7_Vaccination policy,1.0,1.0,Kentucky
+36,2020-12-22,H7_Vaccination policy,1.0,2.0,Kentucky
+0,2020-03-13,C1_School closing,1.0,1.0,Louisiana
+1,2020-03-16,C1_School closing,1.0,2.0,Louisiana
+2,2020-03-21,C1_School closing,1.0,3.0,Louisiana
+3,2020-08-24,C1_School closing,-1.0,2.0,Louisiana
+4,2020-03-12,C2_Workplace closing,1.0,1.0,Louisiana
+5,2020-03-14,C2_Workplace closing,1.0,2.0,Louisiana
+6,2020-12-23,C2_Workplace closing,1.0,2.0,Louisiana
+7,2020-11-17,C2_Workplace closing,-1.0,1.0,Louisiana
+8,2020-03-10,C3_Cancel public events,2.0,2.0,Louisiana
+9,2020-09-11,C3_Cancel public events,-1.0,1.0,Louisiana
+10,2020-03-13,C4_Restrictions on gatherings,2.0,2.0,Louisiana
+11,2020-03-23,C4_Restrictions on gatherings,2.0,4.0,Louisiana
+12,2020-05-01,C4_Restrictions on gatherings,-2.0,2.0,Louisiana
+13,2020-07-18,C4_Restrictions on gatherings,1.0,3.0,Louisiana
+14,2020-03-17,C5_Close public transport,1.0,1.0,Louisiana
+15,2020-03-23,C6_Stay at home requirements,2.0,2.0,Louisiana
+16,2020-05-15,C6_Stay at home requirements,-1.0,1.0,Louisiana
+17,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Louisiana
+18,2020-03-02,C8_International travel controls,3.0,3.0,Louisiana
+19,2020-03-10,H1_Public information campaigns,1.0,1.0,Louisiana
+20,2020-03-12,H1_Public information campaigns,1.0,2.0,Louisiana
+21,2020-01-21,H2_Testing policy,1.0,1.0,Louisiana
+22,2020-03-09,H2_Testing policy,1.0,1.0,Louisiana
+23,2020-05-29,H2_Testing policy,1.0,2.0,Louisiana
+24,2020-03-02,H2_Testing policy,-1.0,0.0,Louisiana
+25,2020-01-21,H3_Contact tracing,1.0,1.0,Louisiana
+26,2020-11-17,H3_Contact tracing,1.0,2.0,Louisiana
+27,2020-12-05,H3_Contact tracing,-1.0,1.0,Louisiana
+28,2020-04-04,H6_Facial Coverings,1.0,1.0,Louisiana
+29,2020-05-01,H6_Facial Coverings,1.0,2.0,Louisiana
+30,2020-05-16,H6_Facial Coverings,1.0,3.0,Louisiana
+31,2020-12-14,H7_Vaccination policy,1.0,1.0,Louisiana
+32,2020-12-30,H7_Vaccination policy,1.0,2.0,Louisiana
+0,2020-03-12,C1_School closing,2.0,2.0,Massachusetts
+1,2020-03-23,C1_School closing,1.0,3.0,Massachusetts
+2,2020-12-08,C1_School closing,1.0,2.0,Massachusetts
+3,2020-09-16,C1_School closing,-1.0,2.0,Massachusetts
+4,2020-12-01,C1_School closing,-1.0,1.0,Massachusetts
+5,2020-03-12,C2_Workplace closing,1.0,1.0,Massachusetts
+6,2020-12-13,C2_Workplace closing,1.0,2.0,Massachusetts
+7,2020-03-24,C2_Workplace closing,2.0,3.0,Massachusetts
+8,2020-06-01,C2_Workplace closing,-1.0,2.0,Massachusetts
+9,2020-12-08,C2_Workplace closing,-1.0,1.0,Massachusetts
+10,2020-03-13,C3_Cancel public events,2.0,2.0,Massachusetts
+11,2020-07-06,C3_Cancel public events,-1.0,1.0,Massachusetts
+12,2020-12-13,C3_Cancel public events,1.0,2.0,Massachusetts
+13,2020-03-13,C4_Restrictions on gatherings,2.0,2.0,Massachusetts
+14,2020-03-17,C4_Restrictions on gatherings,1.0,3.0,Massachusetts
+15,2020-03-24,C4_Restrictions on gatherings,1.0,4.0,Massachusetts
+16,2020-11-06,C4_Restrictions on gatherings,1.0,4.0,Massachusetts
+17,2020-05-18,C4_Restrictions on gatherings,-1.0,3.0,Massachusetts
+18,2020-03-27,C5_Close public transport,1.0,1.0,Massachusetts
+19,2020-01-26,C6_Stay at home requirements,1.0,1.0,Massachusetts
+20,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Massachusetts
+21,2020-10-28,C7_Restrictions on internal movement,1.0,2.0,Massachusetts
+22,2020-03-02,C8_International travel controls,3.0,3.0,Massachusetts
+23,2020-03-04,H1_Public information campaigns,1.0,1.0,Massachusetts
+24,2020-03-13,H1_Public information campaigns,1.0,2.0,Massachusetts
+25,2020-01-21,H2_Testing policy,1.0,1.0,Massachusetts
+26,2020-04-02,H2_Testing policy,1.0,2.0,Massachusetts
+27,2020-07-10,H2_Testing policy,1.0,3.0,Massachusetts
+28,2020-09-23,H2_Testing policy,1.0,3.0,Massachusetts
+29,2020-09-18,H2_Testing policy,-1.0,2.0,Massachusetts
+30,2020-01-21,H3_Contact tracing,1.0,1.0,Massachusetts
+31,2020-04-12,H3_Contact tracing,1.0,2.0,Massachusetts
+32,2020-04-04,H6_Facial Coverings,1.0,1.0,Massachusetts
+33,2020-04-12,H6_Facial Coverings,1.0,2.0,Massachusetts
+34,2020-04-17,H6_Facial Coverings,1.0,3.0,Massachusetts
+35,2020-10-02,H6_Facial Coverings,1.0,4.0,Massachusetts
+36,2020-12-14,H7_Vaccination policy,2.0,2.0,Massachusetts
+0,2020-03-13,C1_School closing,1.0,1.0,Maryland
+1,2020-03-16,C1_School closing,1.0,2.0,Maryland
+2,2020-03-19,C1_School closing,1.0,3.0,Maryland
+3,2020-10-27,C1_School closing,1.0,2.0,Maryland
+4,2020-08-31,C1_School closing,-1.0,2.0,Maryland
+5,2020-10-17,C1_School closing,-1.0,1.0,Maryland
+6,2020-03-12,C2_Workplace closing,1.0,1.0,Maryland
+7,2020-03-16,C2_Workplace closing,1.0,2.0,Maryland
+8,2020-03-23,C2_Workplace closing,1.0,3.0,Maryland
+9,2020-11-10,C2_Workplace closing,1.0,2.0,Maryland
+10,2020-06-15,C2_Workplace closing,-1.0,2.0,Maryland
+11,2020-06-29,C2_Workplace closing,-1.0,1.0,Maryland
+12,2020-03-12,C3_Cancel public events,2.0,2.0,Maryland
+13,2020-03-12,C4_Restrictions on gatherings,2.0,2.0,Maryland
+14,2020-03-16,C4_Restrictions on gatherings,1.0,3.0,Maryland
+15,2020-03-19,C4_Restrictions on gatherings,1.0,4.0,Maryland
+16,2020-11-12,C4_Restrictions on gatherings,1.0,4.0,Maryland
+17,2020-12-17,C4_Restrictions on gatherings,1.0,4.0,Maryland
+18,2020-06-29,C4_Restrictions on gatherings,-1.0,3.0,Maryland
+19,2020-12-11,C4_Restrictions on gatherings,-1.0,3.0,Maryland
+20,2020-03-18,C5_Close public transport,1.0,1.0,Maryland
+21,2020-04-06,C5_Close public transport,1.0,2.0,Maryland
+22,2020-06-08,C5_Close public transport,-1.0,1.0,Maryland
+23,2020-07-27,C5_Close public transport,-1.0,0.0,Maryland
+24,2020-03-30,C6_Stay at home requirements,2.0,2.0,Maryland
+25,2020-06-01,C6_Stay at home requirements,-1.0,1.0,Maryland
+26,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Maryland
+27,2020-03-30,C7_Restrictions on internal movement,1.0,2.0,Maryland
+28,2020-11-10,C7_Restrictions on internal movement,1.0,2.0,Maryland
+29,2020-06-01,C7_Restrictions on internal movement,-1.0,1.0,Maryland
+30,2020-03-02,C8_International travel controls,3.0,3.0,Maryland
+31,2020-03-02,H1_Public information campaigns,1.0,1.0,Maryland
+32,2020-03-14,H1_Public information campaigns,1.0,2.0,Maryland
+33,2020-01-21,H2_Testing policy,1.0,1.0,Maryland
+34,2020-03-23,H2_Testing policy,1.0,1.0,Maryland
+35,2020-10-15,H2_Testing policy,1.0,3.0,Maryland
+36,2020-03-02,H2_Testing policy,-1.0,0.0,Maryland
+37,2020-09-17,H2_Testing policy,-1.0,2.0,Maryland
+38,2020-05-29,H2_Testing policy,2.0,3.0,Maryland
+39,2020-01-21,H3_Contact tracing,1.0,1.0,Maryland
+40,2020-07-21,H3_Contact tracing,1.0,2.0,Maryland
+41,2020-04-04,H6_Facial Coverings,1.0,1.0,Maryland
+42,2020-04-14,H6_Facial Coverings,1.0,2.0,Maryland
+43,2020-07-31,H6_Facial Coverings,1.0,3.0,Maryland
+44,2020-11-06,H6_Facial Coverings,1.0,4.0,Maryland
+45,2020-12-14,H7_Vaccination policy,1.0,1.0,Maryland
+46,2020-12-15,H7_Vaccination policy,1.0,2.0,Maryland
+0,2020-03-13,C1_School closing,1.0,1.0,Maine
+1,2020-03-15,C1_School closing,1.0,2.0,Maine
+2,2020-03-25,C1_School closing,1.0,3.0,Maine
+3,2020-08-30,C1_School closing,-1.0,2.0,Maine
+4,2020-09-14,C1_School closing,-1.0,1.0,Maine
+5,2020-03-12,C2_Workplace closing,1.0,1.0,Maine
+6,2020-03-25,C2_Workplace closing,2.0,3.0,Maine
+7,2020-05-01,C2_Workplace closing,-1.0,2.0,Maine
+8,2020-11-20,C2_Workplace closing,-1.0,1.0,Maine
+9,2020-03-12,C3_Cancel public events,1.0,1.0,Maine
+10,2020-03-15,C3_Cancel public events,1.0,2.0,Maine
+11,2020-10-13,C3_Cancel public events,-1.0,1.0,Maine
+12,2020-03-15,C4_Restrictions on gatherings,4.0,4.0,Maine
+13,2020-05-31,C4_Restrictions on gatherings,-1.0,3.0,Maine
+14,2020-03-25,C5_Close public transport,2.0,2.0,Maine
+15,2020-09-01,C5_Close public transport,-1.0,1.0,Maine
+16,2020-03-25,C6_Stay at home requirements,2.0,2.0,Maine
+17,2020-05-31,C6_Stay at home requirements,-1.0,1.0,Maine
+18,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Maine
+19,2020-04-03,C7_Restrictions on internal movement,1.0,2.0,Maine
+20,2020-03-02,C8_International travel controls,3.0,3.0,Maine
+21,2020-02-10,H1_Public information campaigns,1.0,1.0,Maine
+22,2020-02-27,H1_Public information campaigns,1.0,2.0,Maine
+23,2020-01-21,H2_Testing policy,1.0,1.0,Maine
+24,2020-05-18,H2_Testing policy,1.0,2.0,Maine
+25,2020-07-20,H2_Testing policy,1.0,3.0,Maine
+26,2020-10-29,H2_Testing policy,-1.0,2.0,Maine
+27,2020-01-21,H3_Contact tracing,1.0,1.0,Maine
+28,2020-06-01,H3_Contact tracing,1.0,2.0,Maine
+29,2020-04-04,H6_Facial Coverings,1.0,1.0,Maine
+30,2020-05-01,H6_Facial Coverings,1.0,2.0,Maine
+31,2020-11-04,H6_Facial Coverings,1.0,3.0,Maine
+32,2020-12-15,H7_Vaccination policy,1.0,1.0,Maine
+33,2020-12-21,H7_Vaccination policy,1.0,2.0,Maine
+0,2020-03-13,C1_School closing,1.0,1.0,Michigan
+1,2020-03-16,C1_School closing,2.0,3.0,Michigan
+2,2020-08-31,C1_School closing,-1.0,2.0,Michigan
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Michigan
+4,2020-03-16,C2_Workplace closing,1.0,2.0,Michigan
+5,2020-03-24,C2_Workplace closing,1.0,3.0,Michigan
+6,2020-07-01,C2_Workplace closing,1.0,2.0,Michigan
+7,2020-11-18,C2_Workplace closing,1.0,2.0,Michigan
+8,2020-04-24,C2_Workplace closing,-1.0,2.0,Michigan
+9,2020-06-05,C2_Workplace closing,-1.0,1.0,Michigan
+10,2020-09-25,C2_Workplace closing,-1.0,1.0,Michigan
+11,2020-03-11,C3_Cancel public events,1.0,1.0,Michigan
+12,2020-03-16,C3_Cancel public events,1.0,2.0,Michigan
+13,2020-08-03,C3_Cancel public events,1.0,2.0,Michigan
+14,2020-11-18,C3_Cancel public events,1.0,2.0,Michigan
+15,2020-06-05,C3_Cancel public events,-1.0,1.0,Michigan
+16,2020-09-25,C3_Cancel public events,-1.0,1.0,Michigan
+17,2020-12-21,C3_Cancel public events,-1.0,1.0,Michigan
+18,2020-03-13,C4_Restrictions on gatherings,2.0,2.0,Michigan
+19,2020-03-17,C4_Restrictions on gatherings,1.0,3.0,Michigan
+20,2020-03-24,C4_Restrictions on gatherings,1.0,4.0,Michigan
+21,2020-07-31,C4_Restrictions on gatherings,1.0,4.0,Michigan
+22,2020-06-05,C4_Restrictions on gatherings,-1.0,3.0,Michigan
+23,2020-03-17,C5_Close public transport,1.0,1.0,Michigan
+24,2020-03-11,C6_Stay at home requirements,1.0,1.0,Michigan
+25,2020-03-24,C6_Stay at home requirements,1.0,2.0,Michigan
+26,2020-05-21,C6_Stay at home requirements,-1.0,1.0,Michigan
+27,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Michigan
+28,2020-03-24,C7_Restrictions on internal movement,1.0,2.0,Michigan
+29,2020-06-01,C7_Restrictions on internal movement,-1.0,1.0,Michigan
+30,2020-01-28,C8_International travel controls,1.0,1.0,Michigan
+31,2020-03-02,C8_International travel controls,2.0,3.0,Michigan
+32,2020-01-24,H1_Public information campaigns,1.0,1.0,Michigan
+33,2020-03-12,H1_Public information campaigns,1.0,2.0,Michigan
+34,2020-01-21,H2_Testing policy,1.0,1.0,Michigan
+35,2020-04-14,H2_Testing policy,1.0,2.0,Michigan
+36,2020-05-26,H2_Testing policy,1.0,3.0,Michigan
+37,2020-01-21,H3_Contact tracing,1.0,1.0,Michigan
+38,2020-11-02,H3_Contact tracing,1.0,2.0,Michigan
+39,2020-03-10,H6_Facial Coverings,1.0,1.0,Michigan
+40,2020-07-17,H6_Facial Coverings,2.0,3.0,Michigan
+41,2020-12-14,H7_Vaccination policy,2.0,2.0,Michigan
+0,2020-03-13,C1_School closing,1.0,1.0,Minnesota
+1,2020-03-18,C1_School closing,2.0,3.0,Minnesota
+2,2020-09-14,C1_School closing,-1.0,2.0,Minnesota
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Minnesota
+4,2020-03-17,C2_Workplace closing,1.0,2.0,Minnesota
+5,2020-03-27,C2_Workplace closing,1.0,3.0,Minnesota
+6,2020-11-20,C2_Workplace closing,1.0,2.0,Minnesota
+7,2020-05-04,C2_Workplace closing,-1.0,2.0,Minnesota
+8,2020-06-10,C2_Workplace closing,-1.0,1.0,Minnesota
+9,2020-03-13,C3_Cancel public events,1.0,1.0,Minnesota
+10,2020-03-15,C3_Cancel public events,1.0,2.0,Minnesota
+11,2020-11-20,C3_Cancel public events,1.0,2.0,Minnesota
+12,2020-09-21,C3_Cancel public events,-1.0,1.0,Minnesota
+13,2020-03-13,C4_Restrictions on gatherings,2.0,2.0,Minnesota
+14,2020-03-27,C4_Restrictions on gatherings,2.0,4.0,Minnesota
+15,2020-06-10,C4_Restrictions on gatherings,-1.0,3.0,Minnesota
+16,2020-11-20,C4_Restrictions on gatherings,1.0,4.0,Minnesota
+17,2020-11-20,C5_Close public transport,1.0,1.0,Minnesota
+18,2020-03-13,C6_Stay at home requirements,1.0,1.0,Minnesota
+19,2020-03-27,C6_Stay at home requirements,1.0,2.0,Minnesota
+20,2020-05-18,C6_Stay at home requirements,-1.0,1.0,Minnesota
+21,2020-03-13,C7_Restrictions on internal movement,1.0,1.0,Minnesota
+22,2020-03-27,C7_Restrictions on internal movement,1.0,2.0,Minnesota
+23,2020-04-08,C7_Restrictions on internal movement,-1.0,1.0,Minnesota
+24,2020-01-29,C8_International travel controls,1.0,1.0,Minnesota
+25,2020-03-02,C8_International travel controls,2.0,3.0,Minnesota
+26,2020-01-24,H1_Public information campaigns,1.0,1.0,Minnesota
+27,2020-03-05,H1_Public information campaigns,1.0,2.0,Minnesota
+28,2020-01-20,H2_Testing policy,1.0,1.0,Minnesota
+29,2020-04-23,H2_Testing policy,1.0,2.0,Minnesota
+30,2020-10-03,H2_Testing policy,1.0,3.0,Minnesota
+31,2020-01-21,H3_Contact tracing,1.0,1.0,Minnesota
+32,2020-04-04,H6_Facial Coverings,1.0,1.0,Minnesota
+33,2020-05-26,H6_Facial Coverings,1.0,2.0,Minnesota
+34,2020-12-15,H7_Vaccination policy,2.0,2.0,Minnesota
+0,2020-03-13,C1_School closing,1.0,1.0,Missouri
+1,2020-03-17,C1_School closing,2.0,3.0,Missouri
+2,2020-08-24,C1_School closing,-1.0,2.0,Missouri
+3,2020-03-12,C2_Workplace closing,1.0,1.0,Missouri
+4,2020-04-06,C2_Workplace closing,2.0,3.0,Missouri
+5,2020-05-04,C2_Workplace closing,-1.0,2.0,Missouri
+6,2020-06-15,C2_Workplace closing,-1.0,1.0,Missouri
+7,2020-03-13,C3_Cancel public events,2.0,2.0,Missouri
+8,2020-06-22,C3_Cancel public events,-1.0,1.0,Missouri
+9,2020-07-23,C3_Cancel public events,1.0,2.0,Missouri
+10,2020-03-13,C4_Restrictions on gatherings,2.0,2.0,Missouri
+11,2020-03-15,C4_Restrictions on gatherings,1.0,3.0,Missouri
+12,2020-03-20,C4_Restrictions on gatherings,1.0,4.0,Missouri
+13,2020-11-14,C4_Restrictions on gatherings,1.0,4.0,Missouri
+14,2020-06-29,C4_Restrictions on gatherings,-4.0,0.0,Missouri
+15,2020-07-31,C4_Restrictions on gatherings,3.0,3.0,Missouri
+16,2020-12-08,C4_Restrictions on gatherings,-1.0,3.0,Missouri
+17,2020-03-23,C6_Stay at home requirements,2.0,2.0,Missouri
+18,2020-05-19,C6_Stay at home requirements,-1.0,1.0,Missouri
+19,2020-11-17,C6_Stay at home requirements,1.0,2.0,Missouri
+20,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Missouri
+21,2020-03-02,C8_International travel controls,3.0,3.0,Missouri
+22,2020-01-22,H1_Public information campaigns,1.0,1.0,Missouri
+23,2020-03-16,H1_Public information campaigns,1.0,2.0,Missouri
+24,2020-01-21,H2_Testing policy,1.0,1.0,Missouri
+25,2020-03-07,H2_Testing policy,1.0,1.0,Missouri
+26,2020-05-21,H2_Testing policy,1.0,2.0,Missouri
+27,2020-09-09,H2_Testing policy,1.0,3.0,Missouri
+28,2020-10-23,H2_Testing policy,1.0,3.0,Missouri
+29,2020-11-25,H2_Testing policy,1.0,3.0,Missouri
+30,2020-03-02,H2_Testing policy,-1.0,0.0,Missouri
+31,2020-09-23,H2_Testing policy,-1.0,2.0,Missouri
+32,2020-11-06,H2_Testing policy,-1.0,2.0,Missouri
+33,2020-01-21,H3_Contact tracing,1.0,1.0,Missouri
+34,2020-11-30,H3_Contact tracing,1.0,2.0,Missouri
+35,2020-04-04,H6_Facial Coverings,1.0,1.0,Missouri
+36,2020-07-01,H6_Facial Coverings,2.0,3.0,Missouri
+37,2020-12-22,H7_Vaccination policy,2.0,2.0,Missouri
+38,2020-12-30,H7_Vaccination policy,1.0,3.0,Missouri
+0,2020-03-13,C1_School closing,1.0,1.0,Mississippi
+1,2020-11-20,C1_School closing,1.0,2.0,Mississippi
+2,2020-03-19,C1_School closing,2.0,3.0,Mississippi
+3,2020-08-24,C1_School closing,-1.0,2.0,Mississippi
+4,2020-10-15,C1_School closing,-1.0,1.0,Mississippi
+5,2020-03-12,C2_Workplace closing,1.0,1.0,Mississippi
+6,2020-04-24,C2_Workplace closing,1.0,2.0,Mississippi
+7,2020-07-13,C2_Workplace closing,1.0,2.0,Mississippi
+8,2020-06-01,C2_Workplace closing,-1.0,1.0,Mississippi
+9,2020-08-14,C2_Workplace closing,-1.0,1.0,Mississippi
+10,2020-03-15,C3_Cancel public events,1.0,1.0,Mississippi
+11,2020-03-24,C3_Cancel public events,1.0,2.0,Mississippi
+12,2020-06-01,C3_Cancel public events,-1.0,1.0,Mississippi
+13,2020-04-03,C4_Restrictions on gatherings,4.0,4.0,Mississippi
+14,2020-06-01,C4_Restrictions on gatherings,-1.0,3.0,Mississippi
+15,2020-09-30,C4_Restrictions on gatherings,-1.0,3.0,Mississippi
+16,2020-07-10,C4_Restrictions on gatherings,1.0,4.0,Mississippi
+17,2020-10-21,C4_Restrictions on gatherings,1.0,4.0,Mississippi
+18,2020-03-11,C5_Close public transport,1.0,1.0,Mississippi
+19,2020-07-16,C5_Close public transport,-1.0,0.0,Mississippi
+20,2020-04-03,C6_Stay at home requirements,2.0,2.0,Mississippi
+21,2020-06-01,C6_Stay at home requirements,-1.0,1.0,Mississippi
+22,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Mississippi
+23,2020-03-02,C8_International travel controls,3.0,3.0,Mississippi
+24,2020-03-11,H1_Public information campaigns,2.0,2.0,Mississippi
+25,2020-01-21,H2_Testing policy,1.0,1.0,Mississippi
+26,2020-03-11,H2_Testing policy,1.0,1.0,Mississippi
+27,2020-03-02,H2_Testing policy,-1.0,0.0,Mississippi
+28,2020-01-21,H3_Contact tracing,1.0,1.0,Mississippi
+29,2020-07-16,H3_Contact tracing,1.0,2.0,Mississippi
+30,2020-09-30,H3_Contact tracing,-1.0,1.0,Mississippi
+31,2020-04-04,H6_Facial Coverings,1.0,1.0,Mississippi
+32,2020-06-04,H6_Facial Coverings,2.0,3.0,Mississippi
+33,2020-12-14,H7_Vaccination policy,1.0,1.0,Mississippi
+34,2020-12-28,H7_Vaccination policy,1.0,2.0,Mississippi
+0,2020-03-13,C1_School closing,1.0,1.0,Montana
+1,2020-03-15,C1_School closing,1.0,2.0,Montana
+2,2020-03-23,C1_School closing,1.0,3.0,Montana
+3,2020-10-05,C1_School closing,1.0,2.0,Montana
+4,2020-11-06,C1_School closing,1.0,2.0,Montana
+5,2020-08-17,C1_School closing,-1.0,2.0,Montana
+6,2020-08-24,C1_School closing,-1.0,1.0,Montana
+7,2020-10-19,C1_School closing,-1.0,1.0,Montana
+8,2020-12-01,C1_School closing,-1.0,1.0,Montana
+9,2020-03-12,C2_Workplace closing,1.0,1.0,Montana
+10,2020-03-16,C2_Workplace closing,1.0,2.0,Montana
+11,2020-03-28,C2_Workplace closing,1.0,3.0,Montana
+12,2020-04-27,C2_Workplace closing,-1.0,2.0,Montana
+13,2020-06-01,C2_Workplace closing,-1.0,1.0,Montana
+14,2020-03-15,C3_Cancel public events,1.0,1.0,Montana
+15,2020-03-28,C3_Cancel public events,1.0,2.0,Montana
+16,2020-06-01,C3_Cancel public events,-1.0,1.0,Montana
+17,2020-03-15,C4_Restrictions on gatherings,3.0,3.0,Montana
+18,2020-03-24,C4_Restrictions on gatherings,1.0,4.0,Montana
+19,2020-06-01,C4_Restrictions on gatherings,-1.0,3.0,Montana
+20,2020-03-16,C5_Close public transport,1.0,1.0,Montana
+21,2020-09-11,C5_Close public transport,-1.0,0.0,Montana
+22,2020-03-27,C6_Stay at home requirements,2.0,2.0,Montana
+23,2020-11-23,C6_Stay at home requirements,-1.0,1.0,Montana
+24,2020-12-03,C6_Stay at home requirements,1.0,2.0,Montana
+25,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Montana
+26,2020-03-02,C8_International travel controls,3.0,3.0,Montana
+27,2020-02-25,H1_Public information campaigns,2.0,2.0,Montana
+28,2020-01-21,H2_Testing policy,1.0,1.0,Montana
+29,2020-03-23,H2_Testing policy,1.0,2.0,Montana
+30,2020-06-06,H2_Testing policy,1.0,3.0,Montana
+31,2020-07-29,H2_Testing policy,1.0,3.0,Montana
+32,2020-07-23,H2_Testing policy,-1.0,2.0,Montana
+33,2020-01-21,H3_Contact tracing,1.0,1.0,Montana
+34,2020-03-19,H3_Contact tracing,1.0,2.0,Montana
+35,2020-10-23,H3_Contact tracing,-1.0,1.0,Montana
+36,2020-04-04,H6_Facial Coverings,1.0,1.0,Montana
+37,2020-06-26,H6_Facial Coverings,2.0,3.0,Montana
+38,2020-12-14,H7_Vaccination policy,1.0,1.0,Montana
+0,2020-03-13,C1_School closing,1.0,1.0,North Carolina
+1,2020-03-16,C1_School closing,1.0,2.0,North Carolina
+2,2020-03-23,C1_School closing,1.0,3.0,North Carolina
+3,2020-08-10,C1_School closing,-1.0,2.0,North Carolina
+4,2020-03-10,C2_Workplace closing,1.0,1.0,North Carolina
+5,2020-03-17,C2_Workplace closing,1.0,2.0,North Carolina
+6,2020-03-26,C2_Workplace closing,1.0,3.0,North Carolina
+7,2020-04-30,C2_Workplace closing,-1.0,2.0,North Carolina
+8,2020-03-10,C3_Cancel public events,1.0,1.0,North Carolina
+9,2020-03-26,C3_Cancel public events,1.0,2.0,North Carolina
+10,2020-05-22,C3_Cancel public events,-1.0,1.0,North Carolina
+11,2020-03-16,C4_Restrictions on gatherings,2.0,2.0,North Carolina
+12,2020-03-25,C4_Restrictions on gatherings,1.0,3.0,North Carolina
+13,2020-11-13,C4_Restrictions on gatherings,1.0,4.0,North Carolina
+14,2020-12-05,C4_Restrictions on gatherings,-1.0,3.0,North Carolina
+15,2020-03-16,C5_Close public transport,1.0,1.0,North Carolina
+16,2020-03-10,C6_Stay at home requirements,1.0,1.0,North Carolina
+17,2020-03-25,C6_Stay at home requirements,1.0,2.0,North Carolina
+18,2020-12-11,C6_Stay at home requirements,1.0,2.0,North Carolina
+19,2020-05-08,C6_Stay at home requirements,-1.0,1.0,North Carolina
+20,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,North Carolina
+21,2020-03-20,C7_Restrictions on internal movement,1.0,2.0,North Carolina
+22,2020-05-15,C7_Restrictions on internal movement,-1.0,1.0,North Carolina
+23,2020-03-02,C8_International travel controls,3.0,3.0,North Carolina
+24,2020-03-11,H1_Public information campaigns,2.0,2.0,North Carolina
+25,2020-01-21,H2_Testing policy,1.0,1.0,North Carolina
+26,2020-03-03,H2_Testing policy,1.0,1.0,North Carolina
+27,2020-05-15,H2_Testing policy,1.0,2.0,North Carolina
+28,2020-11-20,H2_Testing policy,1.0,3.0,North Carolina
+29,2020-03-02,H2_Testing policy,-1.0,0.0,North Carolina
+30,2020-11-23,H2_Testing policy,-1.0,2.0,North Carolina
+31,2020-01-21,H3_Contact tracing,1.0,1.0,North Carolina
+32,2020-04-04,H6_Facial Coverings,1.0,1.0,North Carolina
+33,2020-06-24,H6_Facial Coverings,1.0,4.0,North Carolina
+34,2020-04-20,H6_Facial Coverings,2.0,3.0,North Carolina
+35,2020-12-15,H7_Vaccination policy,1.0,1.0,North Carolina
+0,2020-03-13,C1_School closing,1.0,1.0,North Dakota
+1,2020-03-16,C1_School closing,1.0,2.0,North Dakota
+2,2020-03-23,C1_School closing,1.0,3.0,North Dakota
+3,2020-08-24,C1_School closing,-1.0,2.0,North Dakota
+4,2020-03-12,C2_Workplace closing,1.0,1.0,North Dakota
+5,2020-03-20,C2_Workplace closing,1.0,2.0,North Dakota
+6,2020-05-01,C2_Workplace closing,-1.0,1.0,North Dakota
+7,2020-03-12,C3_Cancel public events,1.0,1.0,North Dakota
+8,2020-10-09,C3_Cancel public events,1.0,2.0,North Dakota
+9,2020-11-16,C3_Cancel public events,-1.0,1.0,North Dakota
+10,2020-09-30,C4_Restrictions on gatherings,2.0,2.0,North Dakota
+11,2020-03-20,C5_Close public transport,1.0,1.0,North Dakota
+12,2020-05-11,C5_Close public transport,-1.0,0.0,North Dakota
+13,2020-04-03,C6_Stay at home requirements,1.0,1.0,North Dakota
+14,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,North Dakota
+15,2020-04-08,C7_Restrictions on internal movement,1.0,2.0,North Dakota
+16,2020-05-08,C7_Restrictions on internal movement,-1.0,1.0,North Dakota
+17,2020-03-02,C8_International travel controls,3.0,3.0,North Dakota
+18,2020-01-29,H1_Public information campaigns,1.0,1.0,North Dakota
+19,2020-03-13,H1_Public information campaigns,1.0,2.0,North Dakota
+20,2020-01-21,H2_Testing policy,1.0,1.0,North Dakota
+21,2020-03-03,H2_Testing policy,1.0,1.0,North Dakota
+22,2020-04-22,H2_Testing policy,1.0,2.0,North Dakota
+23,2020-03-02,H2_Testing policy,-1.0,0.0,North Dakota
+24,2020-01-21,H3_Contact tracing,1.0,1.0,North Dakota
+25,2020-05-04,H3_Contact tracing,1.0,2.0,North Dakota
+26,2020-12-22,H3_Contact tracing,1.0,2.0,North Dakota
+27,2020-10-22,H3_Contact tracing,-1.0,1.0,North Dakota
+28,2020-04-04,H6_Facial Coverings,1.0,1.0,North Dakota
+29,2020-10-19,H6_Facial Coverings,2.0,3.0,North Dakota
+30,2020-12-14,H6_Facial Coverings,-1.0,2.0,North Dakota
+31,2020-12-14,H7_Vaccination policy,2.0,2.0,North Dakota
+0,2020-03-13,C1_School closing,1.0,1.0,Nebraska
+1,2020-03-14,C1_School closing,1.0,2.0,Nebraska
+2,2020-03-19,C1_School closing,1.0,3.0,Nebraska
+3,2020-08-24,C1_School closing,-1.0,2.0,Nebraska
+4,2020-09-16,C1_School closing,-1.0,1.0,Nebraska
+5,2020-03-12,C2_Workplace closing,1.0,1.0,Nebraska
+6,2020-03-19,C2_Workplace closing,1.0,2.0,Nebraska
+7,2020-10-30,C2_Workplace closing,1.0,2.0,Nebraska
+8,2020-06-22,C2_Workplace closing,-1.0,1.0,Nebraska
+9,2020-11-09,C2_Workplace closing,-1.0,1.0,Nebraska
+10,2020-03-13,C3_Cancel public events,1.0,1.0,Nebraska
+11,2020-03-16,C3_Cancel public events,1.0,2.0,Nebraska
+12,2020-11-12,C3_Cancel public events,1.0,2.0,Nebraska
+13,2020-09-21,C3_Cancel public events,-1.0,1.0,Nebraska
+14,2020-11-16,C3_Cancel public events,-1.0,1.0,Nebraska
+15,2020-03-19,C4_Restrictions on gatherings,4.0,4.0,Nebraska
+16,2020-06-22,C4_Restrictions on gatherings,-1.0,3.0,Nebraska
+17,2020-07-06,C4_Restrictions on gatherings,-2.0,1.0,Nebraska
+18,2020-12-11,C4_Restrictions on gatherings,-2.0,2.0,Nebraska
+19,2020-12-24,C4_Restrictions on gatherings,-2.0,0.0,Nebraska
+20,2020-11-11,C4_Restrictions on gatherings,3.0,4.0,Nebraska
+21,2020-03-17,C5_Close public transport,1.0,1.0,Nebraska
+22,2020-04-03,C6_Stay at home requirements,1.0,1.0,Nebraska
+23,2020-12-03,C6_Stay at home requirements,1.0,2.0,Nebraska
+24,2020-12-16,C6_Stay at home requirements,-1.0,1.0,Nebraska
+25,2020-03-16,C7_Restrictions on internal movement,1.0,1.0,Nebraska
+26,2020-03-02,C8_International travel controls,3.0,3.0,Nebraska
+27,2020-01-27,H1_Public information campaigns,1.0,1.0,Nebraska
+28,2020-03-16,H1_Public information campaigns,1.0,2.0,Nebraska
+29,2020-01-21,H2_Testing policy,1.0,1.0,Nebraska
+30,2020-05-12,H2_Testing policy,1.0,2.0,Nebraska
+31,2020-06-01,H2_Testing policy,1.0,3.0,Nebraska
+32,2020-10-28,H2_Testing policy,1.0,3.0,Nebraska
+33,2020-10-02,H2_Testing policy,-1.0,2.0,Nebraska
+34,2020-01-21,H3_Contact tracing,1.0,1.0,Nebraska
+35,2020-07-17,H3_Contact tracing,1.0,2.0,Nebraska
+36,2020-04-04,H6_Facial Coverings,1.0,1.0,Nebraska
+37,2020-06-19,H6_Facial Coverings,1.0,2.0,Nebraska
+38,2020-12-28,H7_Vaccination policy,1.0,1.0,Nebraska

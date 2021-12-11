@@ -1,0 +1,33 @@
+,date_implement,policy,metric_change,metric_value,state
+0,2020-03-05,C1_School closing,3.0,3.0,national
+1,2020-03-19,C2_Workplace closing,3.0,3.0,national
+2,2020-06-15,C2_Workplace closing,-1.0,2.0,national
+3,2020-12-02,C2_Workplace closing,-1.0,2.0,national
+4,2020-11-16,C2_Workplace closing,1.0,3.0,national
+5,2020-03-01,C3_Cancel public events,1.0,1.0,national
+6,2020-03-12,C3_Cancel public events,1.0,2.0,national
+7,2020-03-11,C4_Restrictions on gatherings,1.0,1.0,national
+8,2020-03-12,C4_Restrictions on gatherings,1.0,2.0,national
+9,2020-11-16,C4_Restrictions on gatherings,1.0,4.0,national
+10,2020-03-21,C4_Restrictions on gatherings,2.0,4.0,national
+11,2020-09-12,C4_Restrictions on gatherings,-1.0,3.0,national
+12,2020-03-17,C5_Close public transport,1.0,1.0,national
+13,2020-03-15,C6_Stay at home requirements,2.0,2.0,national
+14,2020-07-20,C6_Stay at home requirements,-1.0,1.0,national
+15,2020-10-26,C6_Stay at home requirements,-1.0,1.0,national
+16,2020-10-13,C6_Stay at home requirements,1.0,2.0,national
+17,2020-11-16,C6_Stay at home requirements,1.0,2.0,national
+18,2020-03-14,C7_Restrictions on internal movement,1.0,1.0,national
+19,2020-03-19,C7_Restrictions on internal movement,1.0,2.0,national
+20,2020-02-02,C8_International travel controls,2.0,2.0,national
+21,2020-03-02,C8_International travel controls,1.0,3.0,national
+22,2020-03-16,H1_Public information campaigns,2.0,2.0,national
+23,2020-02-28,H2_Testing policy,1.0,1.0,national
+24,2020-03-04,H2_Testing policy,1.0,2.0,national
+25,2020-03-14,H2_Testing policy,1.0,3.0,national
+26,2020-01-21,H3_Contact tracing,1.0,1.0,national
+27,2020-03-10,H6_Facial Coverings,1.0,1.0,national
+28,2020-04-04,H6_Facial Coverings,1.0,2.0,national
+29,2020-04-06,H6_Facial Coverings,1.0,3.0,national
+30,2020-07-01,H6_Facial Coverings,1.0,4.0,national
+31,2020-12-14,H7_Vaccination policy,1.0,1.0,national
