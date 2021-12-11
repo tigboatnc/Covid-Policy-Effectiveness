@@ -12,7 +12,7 @@ The idea mainly evolved after reading [this]() article from CDC regarding effect
 
 FEATURES = Census(Demographic)+ Covid (Covid Specific Demographic) + Policy 
 
-- - - - - - 
+
 
 ## Running Instructions 
 1. __Locally__
@@ -23,7 +23,7 @@ FEATURES = Census(Demographic)+ Covid (Covid Specific Demographic) + Policy
         ```
 2. Alternatively most notebooks can be viewed here on github. 
 
-- - - - - - 
+
 ## Notebooks
 The following table lists the notebooks in order of work done to shed light on some of the approaches taken. 
 
@@ -64,6 +64,6 @@ The following table lists the notebooks in order of work done to shed light on s
 |[State Code - Name Merging]() | `Stage` | `Author` | Description | 
 
 
-- - - - - - 
+
 
 ## Conclusions 
