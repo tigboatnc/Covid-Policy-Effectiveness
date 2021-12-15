@@ -1,12 +1,10 @@
 # Studying Effectiveness of Covid Policies 
 
 ## Team Members 
-- [Samarth Negi](https://github.com/tigboatnc)
-- __Ally__
-- __Chao Cao__
-- __Jinhua Yang__
-
-
+- Ally Makoto
+- Chao Cao
+- Jinhua Yang
+- Samarth Negi
 
 ## Running Instructions 
 1. __Locally__
@@ -21,27 +19,27 @@
 
 ## BIG PICTURE `sam`
 The idea mainly evolved after reading [this](https://coronavirus.jhu.edu/from-our-experts/evaluating-the-effectiveness-of-covid-19-policies-a-q-and-a-with-dr-elizabeth-stuart) article from __JHU__ regarding effectiveness of policies 
+> In terms of evaluation, one big picture challenge is that it’s hard to figure out what is the true impact of a policy and what is natural variation that you can’t attribute to a given policy
+
+> __15 day delay__ : Covid-19 is much more dynamic, with a long lag time between exposure and outcomes such as hospitalization; this makes it hard to find the real impact of the policy.
 
 There is a massive problem with judgemnet on what covid policies are effective. 
-We aim to solve this problem using our project. 
+We aim to tackle this problem using this project and see if we can make any headway. 
 
 We came to realise every state reacts differently to each policy so we split the project into 2 parts. 
 1. State Classification 
 2. Policy EFfectiveness 
 
-
-Since there is a lot of data. Our approach <br/>
-Just experiment on data on data, see if we have any good insights. 
-
+Project Split 
 
 ## APPROACH `george`
 1. State Profiling : __To find similar states__
     - We collect state wise demographic data.
-    - We try to find similar states using multiple methods. (K-means, Correlation etc.) 
+    - We try to find similarities between states using multiple methods. (K-means, Correlation etc.) 
 2. Covid Profiling : __To find similar states in terms of covid__
-    - We try to collect covid realated data for the USA. 
+    - We try to collect covid realated data for the USA and try to find similar states in terms of covid experience. 
     - We analyse covid data in the following time period = Start of Covid to Today.
-    - Cases data, Vaccination Data. 
+    - Examples Cases data, Vaccination Data. 
 2. Effectiveness Metric : __What is a good jugdge that a policy has been effective__
     - We try to decide what is a good metric to judge effectiveness of policy. 
 
@@ -81,12 +79,12 @@ The following table lists the notebooks in order of work done to shed light on s
 |Serial|Notebook | `Stage` | `Author` | Description | 
 |- |- |- |- |- |
 |6|[Policy Exploration Visualized](./notebooks/policy-exploration-visual.ipynb)|`EDA`,`Feature Engineering` |`Ally` |-|
-|7|[Policy Exploration Data Extraction](./notebooks/policy-exploration-visual.ipynb) __Redundant__|`Feature Engineering` |`NA` |This notebook creates the final outputs for the State Policy Data|
+<!-- |__Tooling__|[Policy Exploration Data Extraction](./notebooks/policy-exploration-visual.ipynb) |`Feature Engineering` |`NA` |This notebook creates the final outputs for the State Policy Data| -->
 
 ### METRICS FOR EFFECTIVENESS OF A POLICY `Y`
 |Serial|Notebook | `Stage` | `Author` | Description | 
 |-|- |- |- |- |
-|10|[Creating Metrics For Effectiveness](./notebooks/train-finalisation.ipynb) | `Plumbing` `Feature Engineering`| `Samarth` | Description | 
+|10|[Creating Metrics For Effectiveness (train-finalisation)](./notebooks/train-finalisation.ipynb) | `Plumbing` `Feature Engineering`| `Samarth` | Description | 
 
 
 ### INSIGHTS 
@@ -98,15 +96,22 @@ The following table lists the notebooks in order of work done to shed light on s
 |13 |[MODEL 1](./notebooks/model1.ipynb)|`Analytics` |`Ally` |Random Model 1 |
 |14 |[MODEL 2 - __will add this soon__]()|`Analytics` |`Jinhua` |Random Model 2|
 
-### EXTRA - TOOLING 
+<!-- ### EXTRA - TOOLING 
 |Serial|Notebook | `Stage` | `Author` | Description | 
 |- |- |- |- |- |
 |-1|[State Code - Name Merging]() | `Plumbing` | `Ally` | Description | 
 |8|[merger1](./notebooks/merger.ipynb) | `Plumbing` | `Samarth` | Description | 
 |9|[merger2](./notebooks/merger-two.ipynb) | `Plumbing` | `Samarth` | Description | 
 
-
+ -->
 
 
 
 ## Conclusions 
+
+- Chao proved his hypothesis that states with similar q
+### Highlights
+- Our project displayed creative ways of data acquisition as shown by chao 
+- Exploring datasets like continuity of time series as shown by G helps later as it avoids unexpected outcomes 
+- We geature engineered time series data into segments to get better data types 
+- We used lots of default pandas functions as we found them better than writing code ourself (zscore apply or rolling)
