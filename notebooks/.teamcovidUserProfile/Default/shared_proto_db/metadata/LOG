@@ -1,2 +1,3 @@
-2021/12/10-23:17:44.670 f803 Creating DB /Users/flipflops/ENGINEMAN/umd/602/umd-ds-covid-policy/notebooks/.teamcovidUserProfile/Default/shared_proto_db/metadata since it was missing.
-2021/12/10-23:17:44.791 f803 Reusing MANIFEST /Users/flipflops/ENGINEMAN/umd/602/umd-ds-covid-policy/notebooks/.teamcovidUserProfile/Default/shared_proto_db/metadata/MANIFEST-000001
+2021/12/14-20:38:26.059 10503 Reusing MANIFEST /Users/flipflops/ENGINEMAN/umd/602/umd-ds-covid-policy/notebooks/.teamcovidUserProfile/Default/shared_proto_db/metadata/MANIFEST-000001
+2021/12/14-20:38:26.068 10503 Recovering log #3
+2021/12/14-20:38:26.088 10503 Reusing old log /Users/flipflops/ENGINEMAN/umd/602/umd-ds-covid-policy/notebooks/.teamcovidUserProfile/Default/shared_proto_db/metadata/000003.log 
