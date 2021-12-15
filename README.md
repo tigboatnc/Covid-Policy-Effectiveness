@@ -7,16 +7,6 @@
 - __Jinhua Yang__
 
 
-## BIG PICTURE `sam`
-The idea mainly evolved after reading [this](https://coronavirus.jhu.edu/from-our-experts/evaluating-the-effectiveness-of-covid-19-policies-a-q-and-a-with-dr-elizabeth-stuart) article from __JHU__ regarding effectiveness of policies 
-
-FEATURES = Census(Demographic)+ Covid (Covid Specific Demographic) + Policy 
-
-STRUCTURE 
-1. Exploration 
-2. Processing 
-3. Model 
-
 
 ## Running Instructions 
 1. __Locally__
@@ -27,10 +17,43 @@ STRUCTURE
         ```
 2. Alternatively most notebooks can be viewed here on github. 
 
-## Data Gathering `chao`
+
+
+## BIG PICTURE `sam`
+The idea mainly evolved after reading [this](https://coronavirus.jhu.edu/from-our-experts/evaluating-the-effectiveness-of-covid-19-policies-a-q-and-a-with-dr-elizabeth-stuart) article from __JHU__ regarding effectiveness of policies 
+
+There is a massive problem with judgemnet on what covid policies are effective. 
+We aim to solve this problem using our project. 
+
+We came to realise every state reacts differently to each policy so we split the project into 2 parts. 
+1. State Classification 
+2. Policy EFfectiveness 
+
+
+Since there is a lot of data. Our approach <br/>
+Just experiment on data on data, see if we have any good insights. 
+
+
+## APPROACH `george`
+1. State Profiling : __To find similar states__
+    - We collect state wise demographic data.
+    - We try to find similar states using multiple methods. (K-means, Correlation etc.) 
+2. Covid Profiling : __To find similar states in terms of covid__
+    - We try to collect covid realated data for the USA. 
+    - Time period = Start of Covid to Today.
+    - Cases data, Vaccination Data. 
+2. Effectiveness Metric : __What is a good jugdge that a policy has been effective__
+    - We try to decide what is a good metric to judge effectiveness of policy. 
+
+__NOTEBOOK LAYOUT__
+- For each our notebooks, we have a format. 
+- First we try an operation for a state and then we generalize. 
+
+
+## DATA GATHERING `chao`
 >  For the sake of saving time, we are skipping most of the _data gathering_ and _source verification_ as it we feel it is trivial and would like to focus more on the feature engineering and data analytics part. A rough summary can be found [here](./extras/dataacq.md) . 
 
-> Most of the data used in our datasets is api based which allows us to get fresh data and run them through our pipelines with just running the notebooks and replacing the existing data with fresh data. [see here]()
+> Most of the data used in our datasets is api based which allows us to get fresh data and run them through our pipelines with just running the notebooks and replacing the existing data with fresh data. [see here](./extras/example_data_api.png)
 
 ## Notebooks
 The following table lists the notebooks in order of work done to shed light on some of the approaches taken. 
@@ -58,7 +81,7 @@ The following table lists the notebooks in order of work done to shed light on s
 |Serial|Notebook | `Stage` | `Author` | Description | 
 |- |- |- |- |- |
 |6|[Policy Exploration Visualized](./notebooks/policy-exploration-visual.ipynb)|`EDA`,`Feature Engineering` |`Ally` |-|
-|7|[Policy Exploration Data Extraction](./notebooks/policy-exploration-visual.ipynb)|`Feature Engineering` |`Samarth` |This notebook creates the final outputs for the State Policy Data|
+|7|[Policy Exploration Data Extraction](./notebooks/policy-exploration-visual.ipynb) __Redundant__|`Feature Engineering` |`NA` |This notebook creates the final outputs for the State Policy Data|
 
 ### METRICS FOR EFFECTIVENESS OF A POLICY `Y`
 |Serial|Notebook | `Stage` | `Author` | Description | 
