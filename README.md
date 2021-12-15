@@ -87,14 +87,14 @@ The following table lists the notebooks in order of work done to shed light on s
 |10|[Creating Metrics For Effectiveness (train-finalisation)](./notebooks/train-finalisation.ipynb) | `Plumbing` `Feature Engineering`| `Samarth` | Description | 
 
 
-### INSIGHTS 
+### INSIGHTS / CONCLUSIONS / FINDINGS 
 
 |Serial|Notebook | `Stage` | `Author` | Description | 
 |- |- |- |- |- |
 |11|[Correlations in Census Data](./notebooks/census-correlations.ipynb) |`Analytics` |`Jinhua`|This notebook does internal corellation of census data. _not really a pertaining to the overarching idea but interesting_. Essentially  _obviousness is obvious_ |
 |12|[Hypothesis Testing : Demographic to State Covid Correlation](./notebooks/h1-kmeans.ipynb) | `Analytics` | `Chao` | This notebook tests the hypothesis : __A states covid response will be dependent on its demographic__ | 
-|13 |[MODEL 1](./notebooks/model1.ipynb)|`Analytics` |`Ally` |Random Model 1 |
-|14 |[MODEL 2 - __will add this soon__]()|`Analytics` |`Jinhua` |Random Model 2|
+|13 |[MODEL 1](./notebooks/model1.ipynb)|`Analytics` |`Ally` |Dependence analysis : [Results](./outputs/decision_reading.md)|
+
 
 <!-- ### EXTRA - TOOLING 
 |Serial|Notebook | `Stage` | `Author` | Description | 
