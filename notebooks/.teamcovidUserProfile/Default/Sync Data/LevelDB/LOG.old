@@ -1,2 +1,3 @@
-2021/12/10-23:17:43.361 9207 Creating DB /Users/flipflops/ENGINEMAN/umd/602/umd-ds-covid-policy/notebooks/.teamcovidUserProfile/Default/Sync Data/LevelDB since it was missing.
-2021/12/10-23:17:43.589 9207 Reusing MANIFEST /Users/flipflops/ENGINEMAN/umd/602/umd-ds-covid-policy/notebooks/.teamcovidUserProfile/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/12/14-20:38:23.930 d103 Reusing MANIFEST /Users/flipflops/ENGINEMAN/umd/602/umd-ds-covid-policy/notebooks/.teamcovidUserProfile/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/12/14-20:38:23.930 d103 Recovering log #3
+2021/12/14-20:38:23.931 d103 Reusing old log /Users/flipflops/ENGINEMAN/umd/602/umd-ds-covid-policy/notebooks/.teamcovidUserProfile/Default/Sync Data/LevelDB/000003.log 

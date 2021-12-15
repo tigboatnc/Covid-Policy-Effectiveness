@@ -40,7 +40,7 @@ Just experiment on data on data, see if we have any good insights.
     - We try to find similar states using multiple methods. (K-means, Correlation etc.) 
 2. Covid Profiling : __To find similar states in terms of covid__
     - We try to collect covid realated data for the USA. 
-    - Time period = Start of Covid to Today.
+    - We analyse covid data in the following time period = Start of Covid to Today.
     - Cases data, Vaccination Data. 
 2. Effectiveness Metric : __What is a good jugdge that a policy has been effective__
     - We try to decide what is a good metric to judge effectiveness of policy. 
