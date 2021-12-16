@@ -62,7 +62,7 @@ The following table lists the notebooks in order of work done to shed light on s
 
 
 
-### STATE COVID PROFILING `X1`
+### STATE COVID PROFILING
 
 |Serial|Notebook | Stage | Author | Description | 
 |- |- |- |- |- |
@@ -72,7 +72,7 @@ The following table lists the notebooks in order of work done to shed light on s
 |4|[Vaccination Data Processing](./notebooks/vaccine-data-process.ipynb) |`Feature Engineering`,`dealing with missing data` |`Ally`|This notebook deals with processing the vaccine data and creating a state classification metric from it. |
 
 
-### STATE DEMOGRAPHIC PROFILING `X2`
+### STATE DEMOGRAPHIC PROFILING
 
 |Serial| Notebook | Stage | Author | Description | 
 |- |- |- |- |- |
@@ -80,14 +80,14 @@ The following table lists the notebooks in order of work done to shed light on s
 
 
 
-### POLICY `X3`
+### POLICY
 
 |Serial|Notebook | Stage | Author | Description | 
 |- |- |- |- |- |
 |6|[Policy Exploration Visualized](./notebooks/policy-exploration-visual.ipynb)|`EDA`,`Feature Engineering` |`Ally` |-|
 <!-- |__Tooling__|[Policy Exploration Data Extraction](./notebooks/policy-exploration-visual.ipynb) |`Feature Engineering` |`NA` |This notebook creates the final outputs for the State Policy Data| -->
 
-### METRICS FOR EFFECTIVENESS OF A POLICY `Y`
+### METRICS FOR EFFECTIVENESS OF A POLICY 
 
 |Serial|Notebook | Stage | Author | Description | 
 |-|- |- |- |- |
