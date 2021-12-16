@@ -35,7 +35,7 @@ We came to realise every state reacts differently to each policy so we split the
 
 Project Split 
 
-## APPROACH `george`
+## APPROACH `Jinhua`
 1. State Profiling : __To find similar states__
     - We collect state wise demographic data.
     - We try to find similarities between states using multiple methods. (K-means, Correlation etc.) 
@@ -51,7 +51,7 @@ __NOTEBOOK LAYOUT__
 - First we try an operation for a state and then we generalize. 
 
 
-## DATA GATHERING `chao`
+## DATA GATHERING `Chao`
 >  For the sake of saving time, we are skipping most of the _data gathering_ and _source verification_ as it we feel it is trivial and would like to focus more on the feature engineering and data analytics part. A source master list [here](./extras/dataacq.md) .All sources are verified to be good and valid.  
 
 > Most of the data used in our datasets is api based which allows us to get fresh data and run them through our pipelines with just running the notebooks and replacing the existing data with fresh data. [see here](./extras/example_data_api.png)
@@ -121,10 +121,12 @@ The following table lists the notebooks in order of work done to shed light on s
 
 
 ## Highlights
-- Our project displayed creative ways of data acquisition as shown by chao 
-- Exploring datasets like continuity of time series as shown by G helps later as it avoids unexpected outcomes 
-- We geature engineered time series data into segments to get better data types 
-- We used lots of default pandas functions as we found them better than writing code ourself (zscore apply or rolling)
+- Our project displayed creative ways of data acquisition as shown by Chao here [Automated Data Scraping from census site](./notebooks/census_scraping.ipynb).
+- Exploring datasets like continuity of time series as shown by Jinhua helps later as it avoids unexpected outcomes 
+- We feature engineered time series data into segments to get better data types 
+- We used lots of default pandas functions as we found them better than writing code ourself (zscore apply or rolling). The standard pandas functions of data modification were extremely well thought out with parameters which felt very natural and even gave us ideas. 
+- Pandas, Scikit-Learn, Selenium are very powerful libraries for data science and we made extensive use of those. 
+- Over-Engineering is a real issue and we struggled with keeping the main goal in mind and were often derailed by the beauty of feature engineering. 
 
 
 ## Whats Next
