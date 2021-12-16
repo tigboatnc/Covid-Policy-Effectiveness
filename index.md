@@ -63,6 +63,7 @@ The following table lists the notebooks in order of work done to shed light on s
 
 
 ### STATE COVID PROFILING `X1`
+
 |Serial|Notebook | Stage | Author | Description | 
 |- |- |- |- |- |
 |1|[Case Exploration](./notebooks/case-exploration.ipynb) |`EDA` |`Jinhua` |Getting the state wise covid data in and checking for continuity breaks  |
@@ -72,19 +73,22 @@ The following table lists the notebooks in order of work done to shed light on s
 
 
 ### STATE DEMOGRAPHIC PROFILING `X2`
-|Serial|Notebook | Stage | Author | Description | 
+
+|Serial| Notebook | Stage | Author | Description | 
 |- |- |- |- |- |
 |5|[Data Scraping](./notebooks/census_scraping.ipynb) | `Acquisition` | `Chao` | This notebook scrapes the census website for one shot data gathering | 
 
 
 
 ### POLICY `X3`
+
 |Serial|Notebook | Stage | Author | Description | 
 |- |- |- |- |- |
 |6|[Policy Exploration Visualized](./notebooks/policy-exploration-visual.ipynb)|`EDA`,`Feature Engineering` |`Ally` |-|
 <!-- |__Tooling__|[Policy Exploration Data Extraction](./notebooks/policy-exploration-visual.ipynb) |`Feature Engineering` |`NA` |This notebook creates the final outputs for the State Policy Data| -->
 
 ### METRICS FOR EFFECTIVENESS OF A POLICY `Y`
+
 |Serial|Notebook | Stage | Author | Description | 
 |-|- |- |- |- |
 |10|[Creating Metrics For Effectiveness (train-finalisation)](./notebooks/train-finalisation.ipynb) | `Plumbing` `Feature Engineering`| `Samarth` | Description | 
@@ -142,7 +146,7 @@ Chao<br/>
 Jinhua<br/>
 Samarth <br/>
 
-[Link](url) and ![Image](src)
+<!-- [Link](url) and ![Image](src) -->
 ```
 
 
