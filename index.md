@@ -1,24 +1,6 @@
 # Studying Effectiveness of Covid Policies 
 
-## Team Members 
-- Ally Makoto
-- Chao Cao
-- Jinhua Yang
-- Samarth Negi
-
-## Running Instructions 
-1. __Locally__
-    1. Clone the Repository.
-    2. Set up the needed python dependencies using the env file [environment.yml](./extras/environment.yml)
-        ```bash
-        conda install -f environment.yml
-        ```
-2. Alternatively most notebooks can be viewed here on github. 
-3. The Datasets are all present in the repo itself but some datasets are too big to download. They are added as api access cells, running which will download the datasets through and API endpoint and add it to the places needed to import to the notebooks. 
-
-
-
-## BIG PICTURE `sam`
+## BIG PICTURE 
 The idea mainly evolved after reading [this](https://coronavirus.jhu.edu/from-our-experts/evaluating-the-effectiveness-of-covid-19-policies-a-q-and-a-with-dr-elizabeth-stuart) article from __JHU__ regarding effectiveness of policies 
 
 Some Interesting excerpts from the article.
@@ -35,7 +17,7 @@ We came to realise every state reacts differently to each policy so we split the
 
 Project Split 
 
-## APPROACH `Jinhua`
+## APPROACH 
 1. State Profiling : __To find similar states__
     - We collect state wise demographic data.
     - We try to find similarities between states using multiple methods. (K-means, Correlation etc.) 
@@ -46,12 +28,25 @@ Project Split
 2. Effectiveness Metric : __What is a good jugdge that a policy has been effective__
     - We try to decide what is a good metric to judge effectiveness of policy. 
 
+
+## Running Instructions 
+1. __Locally__
+    1. Clone the Repository.
+    2. Set up the needed python dependencies using the env file [environment.yml](./extras/environment.yml)
+        ```bash
+        conda install -f environment.yml
+        ```
+2. Alternatively most notebooks can be viewed here on github. 
+3. The Datasets are all present in the repo itself but some datasets are too big to download. They are added as api access cells, running which will download the datasets through and API endpoint and add it to the places needed to import to the notebooks. 
+
+
+
 __NOTEBOOK LAYOUT__
 - For each our notebooks, we have a format. 
 - First we try an operation for a state and then we generalize. 
 
 
-## DATA GATHERING `Chao`
+## DATA GATHERING 
 >  For the sake of saving time, we are skipping most of the _data gathering_ and _source verification_ as it we feel it is trivial and would like to focus more on the feature engineering and data analytics part. A source master list [here](https://github.com/tigboatnc/Covid-Policy-Effectiveness/blob/main/extras/dataacq.md) .All sources are verified to be good and valid.  
 
 > Most of the data used in our datasets is api based which allows us to get fresh data and run them through our pipelines with just running the notebooks and replacing the existing data with fresh data. [see here](https://github.com/tigboatnc/Covid-Policy-Effectiveness/blob/main/extras/example_data_api.png)
